@@ -1,8 +1,12 @@
 {
   "countries" : [
     {
-      "old" : "chrome",
-      "new" : "bum"
+      "oldphrase" : "chrome",
+      "newphrase" : "bum"
+    },
+    {
+      "oldphrase" : "can ",
+      "newphrase" : "probably shouldn't "
     }
   ]
 }
