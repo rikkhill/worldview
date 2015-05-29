@@ -1,0 +1,1 @@
+$("*").replaceText(/chrome/gi, "Bum");
