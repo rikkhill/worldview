@@ -1,12 +1,7860 @@
 {
-  "countries" : [
-    {
-      "oldphrase" : "chrome",
-      "newphrase" : "bum"
+  "AW": {
+    "name": "Aruba",
+    "official": "Aruba",
+    "currency": [
+      "AWG"
+    ],
+    "capital": "Oranjestad",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "Dutch",
+      "Papiamento"
+    ],
+    "borders": [
+
+    ],
+    "area": 180,
+    "NY.GDP.PCAP.CD": {
+      "value": "25354.7824741086",
+      "date": "2011",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
     },
-    {
-      "oldphrase" : "can ",
-      "newphrase" : "probably shouldn't "
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "36016.4837574639",
+      "date": "2011",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
     }
-  ]
+  },
+  "AF": {
+    "name": "Afghanistan",
+    "official": "Islamic Republic of Afghanistan",
+    "currency": [
+      "AFN"
+    ],
+    "capital": "Kabul",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Dari",
+      "Pashto",
+      "Turkmen"
+    ],
+    "borders": [
+      "IRN",
+      "PAK",
+      "TKM",
+      "UZB",
+      "TJK",
+      "CHN"
+    ],
+    "area": 652230,
+    "NY.GDP.PCAP.CD": {
+      "value": "664.764589155526",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1946.19380603184",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AO": {
+    "name": "Angola",
+    "official": "Republic of Angola",
+    "currency": [
+      "AOA"
+    ],
+    "capital": "Luanda",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "borders": [
+      "COG",
+      "COD",
+      "ZMB",
+      "NAM"
+    ],
+    "area": 1246700,
+    "NY.GDP.PCAP.CD": {
+      "value": "5783.36675958641",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7736.17468163313",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AI": {
+    "name": "Anguilla",
+    "official": "Anguilla",
+    "currency": [
+      "XCD"
+    ],
+    "capital": "The Valley",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 91,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AX": {
+    "name": "Åland Islands",
+    "official": "Åland Islands",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Mariehamn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Swedish"
+    ],
+    "borders": [
+
+    ],
+    "area": 1580,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AL": {
+    "name": "Albania",
+    "official": "Republic of Albania",
+    "currency": [
+      "ALL"
+    ],
+    "capital": "Tirana",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Albanian"
+    ],
+    "borders": [
+      "MNE",
+      "GRC",
+      "MKD",
+      "KOS"
+    ],
+    "area": 28748,
+    "NY.GDP.PCAP.CD": {
+      "value": "4460.34097119302",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9930.94322639175",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AD": {
+    "name": "Andorra",
+    "official": "Principality of Andorra",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Andorra la Vella",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Catalan"
+    ],
+    "borders": [
+      "FRA",
+      "ESP"
+    ],
+    "area": 468,
+    "NY.GDP.PCAP.CD": {
+      "value": "46418.4154673278",
+      "date": "2008",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AE": {
+    "name": "United Arab Emirates",
+    "official": "United Arab Emirates",
+    "currency": [
+      "AED"
+    ],
+    "capital": "Abu Dhabi",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "area": 83600,
+    "NY.GDP.PCAP.CD": {
+      "value": "43048.8501491565",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "59845.2568174939",
+      "date": "2012",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AR": {
+    "name": "Argentina",
+    "official": "Argentine Republic",
+    "currency": [
+      "ARS"
+    ],
+    "capital": "Buenos Aires",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Guaraní",
+      "Spanish"
+    ],
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "PRY",
+      "URY"
+    ],
+    "area": 2780400,
+    "NY.GDP.PCAP.CD": {
+      "value": "14715.1800198309",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AM": {
+    "name": "Armenia",
+    "official": "Republic of Armenia",
+    "currency": [
+      "AMD"
+    ],
+    "capital": "Yerevan",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Armenian",
+      "Russian"
+    ],
+    "borders": [
+      "AZE",
+      "GEO",
+      "IRN",
+      "TUR"
+    ],
+    "area": 29743,
+    "NY.GDP.PCAP.CD": {
+      "value": "3504.76675848947",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7776.2860430691",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AS": {
+    "name": "American Samoa",
+    "official": "American Samoa",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Pago Pago",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Samoan"
+    ],
+    "borders": [
+
+    ],
+    "area": 199,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AQ": {
+    "name": "Antarctica",
+    "official": "Antarctica",
+    "currency": [
+
+    ],
+    "capital": "",
+    "region": "",
+    "subregion": "",
+    "languages": [
+
+    ],
+    "borders": [
+
+    ],
+    "area": 14000000,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TF": {
+    "name": "French Southern and Antarctic Lands",
+    "official": "Territory of the French Southern and Antarctic Lands",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Port-aux-Français",
+    "region": "",
+    "subregion": "",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 7747,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AG": {
+    "name": "Antigua and Barbuda",
+    "official": "Antigua and Barbuda",
+    "currency": [
+      "XCD"
+    ],
+    "capital": "Saint John's",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 442,
+    "NY.GDP.PCAP.CD": {
+      "value": "13342.0849977054",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "21027.8266399337",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AU": {
+    "name": "Australia",
+    "official": "Commonwealth of Australia",
+    "currency": [
+      "AUD"
+    ],
+    "capital": "Canberra",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 7692024,
+    "NY.GDP.PCAP.CD": {
+      "value": "67463.0219299855",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "43202.3676878115",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AT": {
+    "name": "Austria",
+    "official": "Republic of Austria",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Vienna",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "Austro-Bavarian German"
+    ],
+    "borders": [
+      "CZE",
+      "DEU",
+      "HUN",
+      "ITA",
+      "LIE",
+      "SVK",
+      "SVN",
+      "CHE"
+    ],
+    "area": 83871,
+    "NY.GDP.PCAP.CD": {
+      "value": "50510.7120335195",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "45079.0922111043",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "AZ": {
+    "name": "Azerbaijan",
+    "official": "Republic of Azerbaijan",
+    "currency": [
+      "AZN"
+    ],
+    "capital": "Baku",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Azerbaijani",
+      "Russian"
+    ],
+    "borders": [
+      "ARM",
+      "GEO",
+      "IRN",
+      "RUS",
+      "TUR"
+    ],
+    "area": 86600,
+    "NY.GDP.PCAP.CD": {
+      "value": "7811.6214184582",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "17143.1096651869",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BI": {
+    "name": "Burundi",
+    "official": "Republic of Burundi",
+    "currency": [
+      "BIF"
+    ],
+    "capital": "Bujumbura",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "French",
+      "Kirundi"
+    ],
+    "borders": [
+      "COD",
+      "RWA",
+      "TZA"
+    ],
+    "area": 27834,
+    "NY.GDP.PCAP.CD": {
+      "value": "267.109321867395",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "771.71542954274",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BE": {
+    "name": "Belgium",
+    "official": "Kingdom of Belgium",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Brussels",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "German",
+      "French",
+      "Dutch"
+    ],
+    "borders": [
+      "FRA",
+      "DEU",
+      "LUX",
+      "NLD"
+    ],
+    "area": 30528,
+    "NY.GDP.PCAP.CD": {
+      "value": "46929.6354590432",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "41574.7563087295",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BJ": {
+    "name": "Benin",
+    "official": "Republic of Benin",
+    "currency": [
+      "XOF"
+    ],
+    "capital": "Porto-Novo",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "BFA",
+      "NER",
+      "NGA",
+      "TGO"
+    ],
+    "area": 112622,
+    "NY.GDP.PCAP.CD": {
+      "value": "804.692498598861",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1790.75363672991",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BF": {
+    "name": "Burkina Faso",
+    "official": "Burkina Faso",
+    "currency": [
+      "XOF"
+    ],
+    "capital": "Ouagadougou",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "BEN",
+      "CIV",
+      "GHA",
+      "MLI",
+      "NER",
+      "TGO"
+    ],
+    "area": 272967,
+    "NY.GDP.PCAP.CD": {
+      "value": "760.852951188714",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1684.47965093318",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BD": {
+    "name": "Bangladesh",
+    "official": "People's Republic of Bangladesh",
+    "currency": [
+      "BDT"
+    ],
+    "capital": "Dhaka",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Bengali"
+    ],
+    "borders": [
+      "MMR",
+      "IND"
+    ],
+    "area": 147570,
+    "NY.GDP.PCAP.CD": {
+      "value": "957.824266028903",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2948.01488976887",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BG": {
+    "name": "Bulgaria",
+    "official": "Republic of Bulgaria",
+    "currency": [
+      "BGN"
+    ],
+    "capital": "Sofia",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Bulgarian"
+    ],
+    "borders": [
+      "GRC",
+      "MKD",
+      "ROU",
+      "SRB",
+      "TUR"
+    ],
+    "area": 110879,
+    "NY.GDP.PCAP.CD": {
+      "value": "7498.83148441441",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15731.6726237737",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BH": {
+    "name": "Bahrain",
+    "official": "Kingdom of Bahrain",
+    "currency": [
+      "BHD"
+    ],
+    "capital": "Manama",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+
+    ],
+    "area": 765,
+    "NY.GDP.PCAP.CD": {
+      "value": "24689.105627649",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "43850.9397176741",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BS": {
+    "name": "Bahamas",
+    "official": "Commonwealth of the Bahamas",
+    "currency": [
+      "BSD"
+    ],
+    "capital": "Nassau",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 13943,
+    "NY.GDP.PCAP.CD": {
+      "value": "22312.0829733898",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "23264.2722108642",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BA": {
+    "name": "Bosnia and Herzegovina",
+    "official": "Bosnia and Herzegovina",
+    "currency": [
+      "BAM"
+    ],
+    "capital": "Sarajevo",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Bosnian",
+      "Croatian",
+      "Serbian"
+    ],
+    "borders": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ],
+    "area": 51209,
+    "NY.GDP.PCAP.CD": {
+      "value": "4661.76424465729",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9535.5397905006",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BL": {
+    "name": "Saint Barthélemy",
+    "official": "Collectivity of Saint BarthélemySaint Barthélemy",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Gustavia",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 21,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BY": {
+    "name": "Belarus",
+    "official": "Republic of Belarus",
+    "currency": [
+      "BYR"
+    ],
+    "capital": "Minsk",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Belarusian",
+      "Russian"
+    ],
+    "borders": [
+      "LVA",
+      "LTU",
+      "POL",
+      "RUS",
+      "UKR"
+    ],
+    "area": 207600,
+    "NY.GDP.PCAP.CD": {
+      "value": "7575.48211011402",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "17619.7696564982",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BZ": {
+    "name": "Belize",
+    "official": "Belize",
+    "currency": [
+      "BZD"
+    ],
+    "capital": "Belmopan",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Belizean Creole",
+      "English",
+      "Spanish"
+    ],
+    "borders": [
+      "GTM",
+      "MEX"
+    ],
+    "area": 22966,
+    "NY.GDP.PCAP.CD": {
+      "value": "4893.92663452847",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "8486.89853967369",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BM": {
+    "name": "Bermuda",
+    "official": "Bermuda",
+    "currency": [
+      "BMD"
+    ],
+    "capital": "Hamilton",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 54,
+    "NY.GDP.PCAP.CD": {
+      "value": "84470.7552702244",
+      "date": "2012",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "53056.4377612925",
+      "date": "2012",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BO": {
+    "name": "Bolivia",
+    "official": "Plurinational State of Bolivia",
+    "currency": [
+      "BOB",
+      "BOV"
+    ],
+    "capital": "Sucre",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Aymara",
+      "Guaraní",
+      "Quechua",
+      "Spanish"
+    ],
+    "borders": [
+      "ARG",
+      "BRA",
+      "CHL",
+      "PRY",
+      "PER"
+    ],
+    "area": 1098581,
+    "NY.GDP.PCAP.CD": {
+      "value": "2867.63979143886",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "6131.06168856137",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BR": {
+    "name": "Brazil",
+    "official": "Federative Republic of Brazil",
+    "currency": [
+      "BRL"
+    ],
+    "capital": "Brasília",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Portuguese"
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "COL",
+      "GUF",
+      "GUY",
+      "PRY",
+      "PER",
+      "SUR",
+      "URY",
+      "VEN"
+    ],
+    "area": 8515767,
+    "NY.GDP.PCAP.CD": {
+      "value": "11208.0827350494",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15037.4574693446",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BB": {
+    "name": "Barbados",
+    "official": "Barbados",
+    "currency": [
+      "BBD"
+    ],
+    "capital": "Bridgetown",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 430,
+    "NY.GDP.PCAP.CD": {
+      "value": "14917.1495051568",
+      "date": "2012",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15573.9931836007",
+      "date": "2012",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BN": {
+    "name": "Brunei",
+    "official": "Nation of Brunei, Abode of Peace",
+    "currency": [
+      "BND"
+    ],
+    "capital": "Bandar Seri Begawan",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Malay"
+    ],
+    "borders": [
+      "MYS"
+    ],
+    "area": 5765,
+    "NY.GDP.PCAP.CD": {
+      "value": "38563.3145093197",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "71776.6480123078",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BT": {
+    "name": "Bhutan",
+    "official": "Kingdom of Bhutan",
+    "currency": [
+      "BTN",
+      "INR"
+    ],
+    "capital": "Thimphu",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Dzongkha"
+    ],
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "area": 38394,
+    "NY.GDP.PCAP.CD": {
+      "value": "2362.58173657366",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7404.73678431865",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BV": {
+    "name": "Bouvet Island",
+    "official": "Bouvet Island",
+    "currency": [
+      "NOK"
+    ],
+    "capital": "",
+    "region": "",
+    "subregion": "",
+    "languages": [
+      "Norwegian"
+    ],
+    "borders": [
+
+    ],
+    "area": 49,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "BW": {
+    "name": "Botswana",
+    "official": "Republic of Botswana",
+    "currency": [
+      "BWP"
+    ],
+    "capital": "Gaborone",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": [
+      "English",
+      "Tswana"
+    ],
+    "borders": [
+      "NAM",
+      "ZAF",
+      "ZMB",
+      "ZWE"
+    ],
+    "area": 582000,
+    "NY.GDP.PCAP.CD": {
+      "value": "7315.01928869892",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15751.9022060328",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CF": {
+    "name": "Central African Republic",
+    "official": "Central African Republic",
+    "currency": [
+      "XAF"
+    ],
+    "capital": "Bangui",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "French",
+      "Sango"
+    ],
+    "borders": [
+      "CMR",
+      "TCD",
+      "COD",
+      "COG",
+      "SSD",
+      "SDN"
+    ],
+    "area": 622984,
+    "NY.GDP.PCAP.CD": {
+      "value": "333.19688062793",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "603.742959794015",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CA": {
+    "name": "Canada",
+    "official": "Canada",
+    "currency": [
+      "CAD"
+    ],
+    "capital": "Ottawa",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "borders": [
+      "USA"
+    ],
+    "area": 9984670,
+    "NY.GDP.PCAP.CD": {
+      "value": "51964.3302265425",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "42752.6574456961",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CC": {
+    "name": "Cocos (Keeling) Islands",
+    "official": "Territory of the Cocos (Keeling) Islands",
+    "currency": [
+      "AUD"
+    ],
+    "capital": "West Island",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 14,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CH": {
+    "name": "Switzerland",
+    "official": "Swiss Confederation",
+    "currency": [
+      "CHE",
+      "CHF",
+      "CHW"
+    ],
+    "capital": "Bern",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "French",
+      "Swiss German",
+      "Italian",
+      "Romansh"
+    ],
+    "borders": [
+      "AUT",
+      "FRA",
+      "ITA",
+      "LIE",
+      "DEU"
+    ],
+    "area": 41284,
+    "NY.GDP.PCAP.CD": {
+      "value": "84748.3653090717",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "56950.0243389194",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CL": {
+    "name": "Chile",
+    "official": "Republic of Chile",
+    "currency": [
+      "CLF",
+      "CLP"
+    ],
+    "capital": "Santiago",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "PER"
+    ],
+    "area": 756102,
+    "NY.GDP.PCAP.CD": {
+      "value": "15732.3137736906",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "21942.1546463448",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CN": {
+    "name": "China",
+    "official": "People's Republic of China",
+    "currency": [
+      "CNY"
+    ],
+    "capital": "Beijing",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Mandarin"
+    ],
+    "borders": [
+      "AFG",
+      "BTN",
+      "MMR",
+      "HKG",
+      "IND",
+      "KAZ",
+      "PRK",
+      "KGZ",
+      "LAO",
+      "MAC",
+      "MNG",
+      "PAK",
+      "RUS",
+      "TJK",
+      "VNM"
+    ],
+    "area": 9706961,
+    "NY.GDP.PCAP.CD": {
+      "value": "6807.4308241222",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11906.5073908244",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CI": {
+    "name": "Ivory Coast",
+    "official": "Republic of Côte d'Ivoire",
+    "currency": [
+      "XOF"
+    ],
+    "capital": "Yamoussoukro",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "BFA",
+      "GHA",
+      "GIN",
+      "LBR",
+      "MLI"
+    ],
+    "area": 322463,
+    "NY.GDP.PCAP.CD": {
+      "value": "1528.93753910821",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3210.45464438594",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CM": {
+    "name": "Cameroon",
+    "official": "Republic of Cameroon",
+    "currency": [
+      "XAF"
+    ],
+    "capital": "Yaoundé",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "borders": [
+      "CAF",
+      "TCD",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ],
+    "area": 475442,
+    "NY.GDP.PCAP.CD": {
+      "value": "1328.64020534474",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2830.12953902169",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CD": {
+    "name": "DR Congo",
+    "official": "Democratic Republic of the Congo",
+    "currency": [
+      "CDF"
+    ],
+    "capital": "Kinshasa",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "French",
+      "Kikongo",
+      "Lingala",
+      "Tshiluba",
+      "Swahili"
+    ],
+    "borders": [
+      "AGO",
+      "BDI",
+      "CAF",
+      "COG",
+      "RWA",
+      "SSD",
+      "TZA",
+      "UGA",
+      "ZMB"
+    ],
+    "area": 2344858,
+    "NY.GDP.PCAP.CD": {
+      "value": "484.211471295874",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "809.217533443526",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CG": {
+    "name": "Republic of the Congo",
+    "official": "Republic of the Congo",
+    "currency": [
+      "XAF"
+    ],
+    "capital": "Brazzaville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "French",
+      "Kikongo",
+      "Lingala"
+    ],
+    "borders": [
+      "AGO",
+      "CMR",
+      "CAF",
+      "COD",
+      "GAB"
+    ],
+    "area": 342000,
+    "NY.GDP.PCAP.CD": {
+      "value": "3167.04532220203",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5868.48055101527",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CK": {
+    "name": "Cook Islands",
+    "official": "Cook Islands",
+    "currency": [
+      "NZD"
+    ],
+    "capital": "Avarua",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Cook Islands Māori"
+    ],
+    "borders": [
+
+    ],
+    "area": 236,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CO": {
+    "name": "Colombia",
+    "official": "Republic of Colombia",
+    "currency": [
+      "COP"
+    ],
+    "capital": "Bogotá",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "BRA",
+      "ECU",
+      "PAN",
+      "PER",
+      "VEN"
+    ],
+    "area": 1141748,
+    "NY.GDP.PCAP.CD": {
+      "value": "7831.21531317397",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "12423.9230431716",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "KM": {
+    "name": "Comoros",
+    "official": "Union of the Comoros",
+    "currency": [
+      "KMF"
+    ],
+    "capital": "Moroni",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Arabic",
+      "French",
+      "Comorian"
+    ],
+    "borders": [
+
+    ],
+    "area": 1862,
+    "NY.GDP.PCAP.CD": {
+      "value": "814.957148838668",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1446.17149475964",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CV": {
+    "name": "Cape Verde",
+    "official": "Republic of Cabo Verde",
+    "currency": [
+      "CVE"
+    ],
+    "capital": "Praia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "borders": [
+
+    ],
+    "area": 4033,
+    "NY.GDP.PCAP.CD": {
+      "value": "3767.1153636954",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "6416.317160988",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CR": {
+    "name": "Costa Rica",
+    "official": "Republic of Costa Rica",
+    "currency": [
+      "CRC"
+    ],
+    "capital": "San José",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "NIC",
+      "PAN"
+    ],
+    "area": 51100,
+    "NY.GDP.PCAP.CD": {
+      "value": "10184.6056715087",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "13875.8563536715",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CU": {
+    "name": "Cuba",
+    "official": "Republic of Cuba",
+    "currency": [
+      "CUC",
+      "CUP"
+    ],
+    "capital": "Havana",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+
+    ],
+    "area": 109884,
+    "NY.GDP.PCAP.CD": {
+      "value": "6051.22200117364",
+      "date": "2011",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "18796.1925231461",
+      "date": "2011",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CW": {
+    "name": "Curaçao",
+    "official": "Country of Curaçao",
+    "currency": [
+      "ANG"
+    ],
+    "capital": "Willemstad",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English",
+      "Dutch",
+      "Papiamento"
+    ],
+    "borders": [
+
+    ],
+    "area": 444,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CX": {
+    "name": "Christmas Island",
+    "official": "Territory of Christmas Island",
+    "currency": [
+      "AUD"
+    ],
+    "capital": "Flying Fish Cove",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 135,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "KY": {
+    "name": "Cayman Islands",
+    "official": "Cayman Islands",
+    "currency": [
+      "KYD"
+    ],
+    "capital": "George Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 264,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CY": {
+    "name": "Cyprus",
+    "official": "Republic of Cyprus",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Nicosia",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Greek",
+      "Turkish"
+    ],
+    "borders": [
+      "GBR"
+    ],
+    "area": 9251,
+    "NY.GDP.PCAP.CD": {
+      "value": "25248.9810656095",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "28224.4574448048",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "CZ": {
+    "name": "Czech Republic",
+    "official": "Czech Republic",
+    "currency": [
+      "CZK"
+    ],
+    "capital": "Prague",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Czech",
+      "Slovak"
+    ],
+    "borders": [
+      "AUT",
+      "DEU",
+      "POL",
+      "SVK"
+    ],
+    "area": 78865,
+    "NY.GDP.PCAP.CD": {
+      "value": "19858.3434636115",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "29017.8364426335",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "DE": {
+    "name": "Germany",
+    "official": "Federal Republic of Germany",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Berlin",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "German"
+    ],
+    "borders": [
+      "AUT",
+      "BEL",
+      "CZE",
+      "DNK",
+      "FRA",
+      "LUX",
+      "NLD",
+      "POL",
+      "CHE"
+    ],
+    "area": 357114,
+    "NY.GDP.PCAP.CD": {
+      "value": "46251.3818043198",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "43883.9100960419",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "DJ": {
+    "name": "Djibouti",
+    "official": "Republic of Djibouti",
+    "currency": [
+      "DJF"
+    ],
+    "capital": "Djibouti",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "borders": [
+      "ERI",
+      "ETH",
+      "SOM"
+    ],
+    "area": 23200,
+    "NY.GDP.PCAP.CD": {
+      "value": "1668.336703229",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2998.74058570901",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "DM": {
+    "name": "Dominica",
+    "official": "Commonwealth of Dominica",
+    "currency": [
+      "XCD"
+    ],
+    "capital": "Roseau",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 751,
+    "NY.GDP.PCAP.CD": {
+      "value": "7175.62694147003",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "10343.1557312332",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "DK": {
+    "name": "Denmark",
+    "official": "Kingdom of Denmark",
+    "currency": [
+      "DKK"
+    ],
+    "capital": "Copenhagen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Danish"
+    ],
+    "borders": [
+      "DEU"
+    ],
+    "area": 43094,
+    "NY.GDP.PCAP.CD": {
+      "value": "59818.6315281878",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "43782.165053723",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "DO": {
+    "name": "Dominican Republic",
+    "official": "Dominican Republic",
+    "currency": [
+      "DOP"
+    ],
+    "capital": "Santo Domingo",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "HTI"
+    ],
+    "area": 48671,
+    "NY.GDP.PCAP.CD": {
+      "value": "5878.99672094992",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "12186.388560558",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "DZ": {
+    "name": "Algeria",
+    "official": "People's Democratic Republic of Algeria",
+    "currency": [
+      "DZD"
+    ],
+    "capital": "Algiers",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "TUN",
+      "LBY",
+      "NER",
+      "ESH",
+      "MRT",
+      "MLI",
+      "MAR"
+    ],
+    "area": 2381741,
+    "NY.GDP.PCAP.CD": {
+      "value": "5360.70114645178",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "13320.2321901285",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "EC": {
+    "name": "Ecuador",
+    "official": "Republic of Ecuador",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Quito",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "COL",
+      "PER"
+    ],
+    "area": 276841,
+    "NY.GDP.PCAP.CD": {
+      "value": "6002.88545889096",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "10889.9891270309",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "EG": {
+    "name": "Egypt",
+    "official": "Arab Republic of Egypt",
+    "currency": [
+      "EGP"
+    ],
+    "capital": "Cairo",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "ISR",
+      "LBY",
+      "SDN"
+    ],
+    "area": 1002450,
+    "NY.GDP.PCAP.CD": {
+      "value": "3314.46292795644",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11089.2111773151",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "ER": {
+    "name": "Eritrea",
+    "official": "State of Eritrea",
+    "currency": [
+      "ERN"
+    ],
+    "capital": "Asmara",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Arabic",
+      "English",
+      "Tigrinya"
+    ],
+    "borders": [
+      "DJI",
+      "ETH",
+      "SDN"
+    ],
+    "area": 117600,
+    "NY.GDP.PCAP.CD": {
+      "value": "543.821908261171",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1195.67675726337",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "EH": {
+    "name": "Western Sahara",
+    "official": "Sahrawi Arab Democratic Republic",
+    "currency": [
+      "MAD",
+      "DZD",
+      "MRO"
+    ],
+    "capital": "El Aaiún",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Berber",
+      "Hassaniya",
+      "Spanish"
+    ],
+    "borders": [
+      "DZA",
+      "MRT",
+      "MAR"
+    ],
+    "area": 266000,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "ES": {
+    "name": "Spain",
+    "official": "Kingdom of Spain",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Madrid",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Catalan",
+      "Basque",
+      "Galician",
+      "Occitan",
+      "Spanish"
+    ],
+    "borders": [
+      "AND",
+      "FRA",
+      "GIB",
+      "PRT",
+      "MAR"
+    ],
+    "area": 505992,
+    "NY.GDP.PCAP.CD": {
+      "value": "29882.135792772",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "33093.9513715373",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "EE": {
+    "name": "Estonia",
+    "official": "Republic of Estonia",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Tallinn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Estonian"
+    ],
+    "borders": [
+      "LVA",
+      "RUS"
+    ],
+    "area": 45227,
+    "NY.GDP.PCAP.CD": {
+      "value": "18877.3304932551",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "25823.3887479939",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "ET": {
+    "name": "Ethiopia",
+    "official": "Federal Democratic Republic of Ethiopia",
+    "currency": [
+      "ETB"
+    ],
+    "capital": "Addis Ababa",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Amharic"
+    ],
+    "borders": [
+      "DJI",
+      "ERI",
+      "KEN",
+      "SOM",
+      "SSD",
+      "SDN"
+    ],
+    "area": 1104300,
+    "NY.GDP.PCAP.CD": {
+      "value": "505.045745754175",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1380.00026448913",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "FI": {
+    "name": "Finland",
+    "official": "Republic of Finland",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Helsinki",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Finnish",
+      "Swedish"
+    ],
+    "borders": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ],
+    "area": 338424,
+    "NY.GDP.PCAP.CD": {
+      "value": "49150.5773018023",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "39740.2145860155",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "FJ": {
+    "name": "Fiji",
+    "official": "Republic of Fiji",
+    "currency": [
+      "FJD"
+    ],
+    "capital": "Suva",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": [
+      "English",
+      "Fijian",
+      "Fiji Hindi"
+    ],
+    "borders": [
+
+    ],
+    "area": 18272,
+    "NY.GDP.PCAP.CD": {
+      "value": "4375.40602174569",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7750.43065903864",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "FK": {
+    "name": "Falkland Islands",
+    "official": "Falkland Islands",
+    "currency": [
+      "FKP"
+    ],
+    "capital": "Stanley",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 12173,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "FR": {
+    "name": "France",
+    "official": "French Republic",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Paris",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "AND",
+      "BEL",
+      "DEU",
+      "ITA",
+      "LUX",
+      "MCO",
+      "ESP",
+      "CHE"
+    ],
+    "area": 551695,
+    "NY.GDP.PCAP.CD": {
+      "value": "42560.413729594",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "37532.3941095928",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "FO": {
+    "name": "Faroe Islands",
+    "official": "Faroe Islands",
+    "currency": [
+      "DKK"
+    ],
+    "capital": "Tórshavn",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Danish",
+      "Faroese"
+    ],
+    "borders": [
+
+    ],
+    "area": 1393,
+    "NY.GDP.PCAP.CD": {
+      "value": "44317.305892908",
+      "date": "2009",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "FM": {
+    "name": "Micronesia",
+    "official": "Federated States of Micronesia",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Palikir",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 702,
+    "NY.GDP.PCAP.CD": {
+      "value": "3054.06812233822",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3394.64727547184",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GA": {
+    "name": "Gabon",
+    "official": "Gabonese Republic",
+    "currency": [
+      "XAF"
+    ],
+    "capital": "Libreville",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "CMR",
+      "COG",
+      "GNQ"
+    ],
+    "area": 267668,
+    "NY.GDP.PCAP.CD": {
+      "value": "11571.082919629",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "19264.3359398216",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GB": {
+    "name": "United Kingdom",
+    "official": "United Kingdom of Great Britain and Northern Ireland",
+    "currency": [
+      "GBP"
+    ],
+    "capital": "London",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+      "IRL"
+    ],
+    "area": 242900,
+    "NY.GDP.PCAP.CD": {
+      "value": "41781.1490232051",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "38259.1728772493",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GE": {
+    "name": "Georgia",
+    "official": "Georgia",
+    "currency": [
+      "GEL"
+    ],
+    "capital": "Tbilisi",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Georgian"
+    ],
+    "borders": [
+      "ARM",
+      "AZE",
+      "RUS",
+      "TUR"
+    ],
+    "area": 69700,
+    "NY.GDP.PCAP.CD": {
+      "value": "3596.90831969687",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7159.97068795563",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GG": {
+    "name": "Guernsey",
+    "official": "Bailiwick of Guernsey",
+    "currency": [
+      "GBP"
+    ],
+    "capital": "St. Peter Port",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "English",
+      "French",
+      "Guernésiais"
+    ],
+    "borders": [
+
+    ],
+    "area": 78,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GH": {
+    "name": "Ghana",
+    "official": "Republic of Ghana",
+    "currency": [
+      "GHS"
+    ],
+    "capital": "Accra",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+      "BFA",
+      "CIV",
+      "TGO"
+    ],
+    "area": 238533,
+    "NY.GDP.PCAP.CD": {
+      "value": "1858.24259798123",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3992.09003884754",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GI": {
+    "name": "Gibraltar",
+    "official": "Gibraltar",
+    "currency": [
+      "GIP"
+    ],
+    "capital": "Gibraltar",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+      "ESP"
+    ],
+    "area": 6,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GN": {
+    "name": "Guinea",
+    "official": "Republic of Guinea",
+    "currency": [
+      "GNF"
+    ],
+    "capital": "Conakry",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "CIV",
+      "GNB",
+      "LBR",
+      "MLI",
+      "SEN",
+      "SLE"
+    ],
+    "area": 245857,
+    "NY.GDP.PCAP.CD": {
+      "value": "523.119032227905",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1253.08489968023",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GP": {
+    "name": "Guadeloupe",
+    "official": "Guadeloupe",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Basse-Terre",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 1628,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GM": {
+    "name": "Gambia",
+    "official": "Republic of the Gambia",
+    "currency": [
+      "GMD"
+    ],
+    "capital": "Banjul",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+      "SEN"
+    ],
+    "area": 10689,
+    "NY.GDP.PCAP.CD": {
+      "value": "488.56559462467",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1661.42355399369",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GW": {
+    "name": "Guinea-Bissau",
+    "official": "Republic of Guinea-Bissau",
+    "currency": [
+      "XOF"
+    ],
+    "capital": "Bissau",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "borders": [
+      "GIN",
+      "SEN"
+    ],
+    "area": 36125,
+    "NY.GDP.PCAP.CD": {
+      "value": "563.752771431122",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1407.02677224558",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GQ": {
+    "name": "Equatorial Guinea",
+    "official": "Republic of Equatorial Guinea",
+    "currency": [
+      "XAF"
+    ],
+    "capital": "Malabo",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "French",
+      "Portuguese",
+      "Spanish"
+    ],
+    "borders": [
+      "CMR",
+      "GAB"
+    ],
+    "area": 28051,
+    "NY.GDP.PCAP.CD": {
+      "value": "20581.6059358535",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "33768.289851408",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GR": {
+    "name": "Greece",
+    "official": "Hellenic Republic",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Athens",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Greek"
+    ],
+    "borders": [
+      "ALB",
+      "BGR",
+      "TUR",
+      "MKD"
+    ],
+    "area": 131990,
+    "NY.GDP.PCAP.CD": {
+      "value": "21965.926768399",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "25666.6735448007",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GD": {
+    "name": "Grenada",
+    "official": "Grenada",
+    "currency": [
+      "XCD"
+    ],
+    "capital": "St. George's",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 344,
+    "NY.GDP.PCAP.CD": {
+      "value": "7890.51331904397",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11645.340600932",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GL": {
+    "name": "Greenland",
+    "official": "Greenland",
+    "currency": [
+      "DKK"
+    ],
+    "capital": "Nuuk",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "languages": [
+      "Greenlandic"
+    ],
+    "borders": [
+
+    ],
+    "area": 2166086,
+    "NY.GDP.PCAP.CD": {
+      "value": "22507.8887155204",
+      "date": "2009",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GT": {
+    "name": "Guatemala",
+    "official": "Republic of Guatemala",
+    "currency": [
+      "GTQ"
+    ],
+    "capital": "Guatemala City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "BLZ",
+      "SLV",
+      "HND",
+      "MEX"
+    ],
+    "area": 108889,
+    "NY.GDP.PCAP.CD": {
+      "value": "3477.89006095894",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7296.59257319642",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GF": {
+    "name": "French Guiana",
+    "official": "Guiana",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Cayenne",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "BRA",
+      "SUR"
+    ],
+    "area": 83534,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GU": {
+    "name": "Guam",
+    "official": "Guam",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Hagåtña",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "Chamorro",
+      "English",
+      "Spanish"
+    ],
+    "borders": [
+
+    ],
+    "area": 549,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GY": {
+    "name": "Guyana",
+    "official": "Co-operative Republic of Guyana",
+    "currency": [
+      "GYD"
+    ],
+    "capital": "Georgetown",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+      "BRA",
+      "SUR",
+      "VEN"
+    ],
+    "area": 214969,
+    "NY.GDP.PCAP.CD": {
+      "value": "3739.46999483479",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "6545.93223037864",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "HK": {
+    "name": "Hong Kong",
+    "official": "Hong Kong Special Administrative Region of the People's Republic of China",
+    "currency": [
+      "HKD"
+    ],
+    "capital": "City of Victoria",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "borders": [
+      "CHN"
+    ],
+    "area": 1104,
+    "NY.GDP.PCAP.CD": {
+      "value": "38123.5221180602",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "53215.9373734741",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "HM": {
+    "name": "Heard Island and McDonald Islands",
+    "official": "Heard Island and McDonald Islands",
+    "currency": [
+      "AUD"
+    ],
+    "capital": "",
+    "region": "",
+    "subregion": "",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 412,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "HN": {
+    "name": "Honduras",
+    "official": "Republic of Honduras",
+    "currency": [
+      "HNL"
+    ],
+    "capital": "Tegucigalpa",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ],
+    "area": 112492,
+    "NY.GDP.PCAP.CD": {
+      "value": "2290.7805332533",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4592.59339927457",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "HR": {
+    "name": "Croatia",
+    "official": "Republic of Croatia",
+    "currency": [
+      "HRK"
+    ],
+    "capital": "Zagreb",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Croatian"
+    ],
+    "borders": [
+      "BIH",
+      "HUN",
+      "MNE",
+      "SRB",
+      "SVN"
+    ],
+    "area": 56594,
+    "NY.GDP.PCAP.CD": {
+      "value": "13597.921445951",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "21350.5210754599",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "HT": {
+    "name": "Haiti",
+    "official": "Republic of Haiti",
+    "currency": [
+      "HTG",
+      "USD"
+    ],
+    "capital": "Port-au-Prince",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "French",
+      "Haitian Creole"
+    ],
+    "borders": [
+      "DOM"
+    ],
+    "area": 27750,
+    "NY.GDP.PCAP.CD": {
+      "value": "819.903914321224",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1703.02934940234",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "HU": {
+    "name": "Hungary",
+    "official": "Hungary",
+    "currency": [
+      "HUF"
+    ],
+    "capital": "Budapest",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Hungarian"
+    ],
+    "borders": [
+      "AUT",
+      "HRV",
+      "ROU",
+      "SRB",
+      "SVK",
+      "SVN",
+      "UKR"
+    ],
+    "area": 93028,
+    "NY.GDP.PCAP.CD": {
+      "value": "13485.4720683877",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "23334.3194270361",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "ID": {
+    "name": "Indonesia",
+    "official": "Republic of Indonesia",
+    "currency": [
+      "IDR"
+    ],
+    "capital": "Jakarta",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Indonesian"
+    ],
+    "borders": [
+      "TLS",
+      "MYS",
+      "PNG"
+    ],
+    "area": 1904569,
+    "NY.GDP.PCAP.CD": {
+      "value": "3475.25047362315",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9561.12635183094",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "IM": {
+    "name": "Isle of Man",
+    "official": "Isle of Man",
+    "currency": [
+      "GBP"
+    ],
+    "capital": "Douglas",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "English",
+      "Manx"
+    ],
+    "borders": [
+
+    ],
+    "area": 572,
+    "NY.GDP.PCAP.CD": {
+      "value": "49817.4446933772",
+      "date": "2007",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "IN": {
+    "name": "India",
+    "official": "Republic of India",
+    "currency": [
+      "INR"
+    ],
+    "capital": "New Delhi",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "English",
+      "Hindi",
+      "Tamil"
+    ],
+    "borders": [
+      "AFG",
+      "BGD",
+      "BTN",
+      "MMR",
+      "CHN",
+      "NPL",
+      "PAK",
+      "LKA"
+    ],
+    "area": 3287590,
+    "NY.GDP.PCAP.CD": {
+      "value": "1497.54986423319",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5417.74894832947",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "IO": {
+    "name": "British Indian Ocean Territory",
+    "official": "British Indian Ocean Territory",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Diego Garcia",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 60,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "IE": {
+    "name": "Ireland",
+    "official": "Republic of Ireland",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Dublin",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "English",
+      "Irish"
+    ],
+    "borders": [
+      "GBR"
+    ],
+    "area": 70273,
+    "NY.GDP.PCAP.CD": {
+      "value": "50478.4103299986",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "45684.4484693966",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "IR": {
+    "name": "Iran",
+    "official": "Islamic Republic of Iran",
+    "currency": [
+      "IRR"
+    ],
+    "capital": "Tehran",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Persian"
+    ],
+    "borders": [
+      "AFG",
+      "ARM",
+      "AZE",
+      "IRQ",
+      "PAK",
+      "TUR",
+      "TKM"
+    ],
+    "area": 1648195,
+    "NY.GDP.PCAP.CD": {
+      "value": "4763.30330925084",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15590.1519646088",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "IQ": {
+    "name": "Iraq",
+    "official": "Republic of Iraq",
+    "currency": [
+      "IQD"
+    ],
+    "capital": "Baghdad",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic",
+      "Aramaic",
+      "Sorani"
+    ],
+    "borders": [
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR",
+      "TUR"
+    ],
+    "area": 438317,
+    "NY.GDP.PCAP.CD": {
+      "value": "6862.49568142531",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "14951.0776794266",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "IS": {
+    "name": "Iceland",
+    "official": "Iceland",
+    "currency": [
+      "ISK"
+    ],
+    "capital": "Reykjavik",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Icelandic"
+    ],
+    "borders": [
+
+    ],
+    "area": 103000,
+    "NY.GDP.PCAP.CD": {
+      "value": "47349.4825463877",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "41859.1857860484",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "IL": {
+    "name": "Israel",
+    "official": "State of Israel",
+    "currency": [
+      "ILS"
+    ],
+    "capital": "Jerusalem",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic",
+      "Hebrew"
+    ],
+    "borders": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "SYR"
+    ],
+    "area": 20770,
+    "NY.GDP.PCAP.CD": {
+      "value": "36050.6979270706",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "32490.6207427851",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "IT": {
+    "name": "Italy",
+    "official": "Italian Republic",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Rome",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Austro-Bavarian German",
+      "Italian",
+      "Sardinian"
+    ],
+    "borders": [
+      "AUT",
+      "FRA",
+      "SMR",
+      "SVN",
+      "CHE",
+      "VAT"
+    ],
+    "area": 301336,
+    "NY.GDP.PCAP.CD": {
+      "value": "35685.5990364728",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "35280.7377429301",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "JM": {
+    "name": "Jamaica",
+    "official": "Jamaica",
+    "currency": [
+      "JMD"
+    ],
+    "capital": "Kingston",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English",
+      "Jamaican Patois"
+    ],
+    "borders": [
+
+    ],
+    "area": 10991,
+    "NY.GDP.PCAP.CD": {
+      "value": "5290.48613415082",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "8892.76280395972",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "JE": {
+    "name": "Jersey",
+    "official": "Bailiwick of Jersey",
+    "currency": [
+      "GBP"
+    ],
+    "capital": "Saint Helier",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "English",
+      "French",
+      "Jèrriais"
+    ],
+    "borders": [
+
+    ],
+    "area": 116,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "JO": {
+    "name": "Jordan",
+    "official": "Hashemite Kingdom of Jordan",
+    "currency": [
+      "JOD"
+    ],
+    "capital": "Amman",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "IRQ",
+      "ISR",
+      "SAU",
+      "SYR"
+    ],
+    "area": 89342,
+    "NY.GDP.PCAP.CD": {
+      "value": "5213.39011578947",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11782.7074590147",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "JP": {
+    "name": "Japan",
+    "official": "Japan",
+    "currency": [
+      "JPY"
+    ],
+    "capital": "Tokyo",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Japanese"
+    ],
+    "borders": [
+
+    ],
+    "area": 377930,
+    "NY.GDP.PCAP.CD": {
+      "value": "38633.7080591795",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "36223.3406743794",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "KZ": {
+    "name": "Kazakhstan",
+    "official": "Republic of Kazakhstan",
+    "currency": [
+      "KZT"
+    ],
+    "capital": "Astana",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": [
+      "Kazakh",
+      "Russian"
+    ],
+    "borders": [
+      "CHN",
+      "KGZ",
+      "RUS",
+      "TKM",
+      "UZB"
+    ],
+    "area": 2724900,
+    "NY.GDP.PCAP.CD": {
+      "value": "13611.5373619663",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "23214.3548260719",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "KE": {
+    "name": "Kenya",
+    "official": "Republic of Kenya",
+    "currency": [
+      "KES"
+    ],
+    "capital": "Nairobi",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "borders": [
+      "ETH",
+      "SOM",
+      "SSD",
+      "TZA",
+      "UGA"
+    ],
+    "area": 580367,
+    "NY.GDP.PCAP.CD": {
+      "value": "1245.51204094041",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2794.98131908266",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "KG": {
+    "name": "Kyrgyzstan",
+    "official": "Kyrgyz Republic",
+    "currency": [
+      "KGS"
+    ],
+    "capital": "Bishkek",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": [
+      "Kyrgyz",
+      "Russian"
+    ],
+    "borders": [
+      "CHN",
+      "KAZ",
+      "TJK",
+      "UZB"
+    ],
+    "area": 199951,
+    "NY.GDP.PCAP.CD": {
+      "value": "1263.42808260643",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3212.87626712181",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "KH": {
+    "name": "Cambodia",
+    "official": "Kingdom of Cambodia",
+    "currency": [
+      "KHR"
+    ],
+    "capital": "Phnom Penh",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Khmer"
+    ],
+    "borders": [
+      "LAO",
+      "THA",
+      "VNM"
+    ],
+    "area": 181035,
+    "NY.GDP.PCAP.CD": {
+      "value": "1006.8397443356",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3041.07709021153",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "KI": {
+    "name": "Kiribati",
+    "official": "Independent and Sovereign Republic of Kiribati",
+    "currency": [
+      "AUD"
+    ],
+    "capital": "South Tarawa",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "English",
+      "Gilbertese"
+    ],
+    "borders": [
+
+    ],
+    "area": 811,
+    "NY.GDP.PCAP.CD": {
+      "value": "1650.7072236263",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1855.82888361975",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "KN": {
+    "name": "Saint Kitts and Nevis",
+    "official": "Federation of Saint Christopher and Nevisa",
+    "currency": [
+      "XCD"
+    ],
+    "capital": "Basseterre",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 261,
+    "NY.GDP.PCAP.CD": {
+      "value": "14132.8018797709",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "21395.6932205761",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "KR": {
+    "name": "South Korea",
+    "official": "Republic of Korea",
+    "currency": [
+      "KRW"
+    ],
+    "capital": "Seoul",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Korean"
+    ],
+    "borders": [
+      "PRK"
+    ],
+    "area": 100210,
+    "NY.GDP.PCAP.CD": {
+      "value": "25976.9528250314",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "33062.4434026673",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "XK": {
+    "name": "Kosovo",
+    "official": "Republic of Kosovo",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Pristina",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Albanian",
+      "Serbian"
+    ],
+    "borders": [
+      "ALB",
+      "MKD",
+      "MNE",
+      "SRB"
+    ],
+    "area": 10908,
+    "NY.GDP.PCAP.CD": {
+      "value": "3877.17063627936",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "8883.52754793466",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "KW": {
+    "name": "Kuwait",
+    "official": "State of Kuwait",
+    "currency": [
+      "KWD"
+    ],
+    "capital": "Kuwait City",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "IRQ",
+      "SAU"
+    ],
+    "area": 17818,
+    "NY.GDP.PCAP.CD": {
+      "value": "52197.3413356747",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "83839.7309247584",
+      "date": "2012",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "LA": {
+    "name": "Laos",
+    "official": "Lao People's Democratic Republic",
+    "currency": [
+      "LAK"
+    ],
+    "capital": "Vientiane",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Lao"
+    ],
+    "borders": [
+      "MMR",
+      "KHM",
+      "CHN",
+      "THA",
+      "VNM"
+    ],
+    "area": 236800,
+    "NY.GDP.PCAP.CD": {
+      "value": "1660.70603054407",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4822.02207368924",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "LB": {
+    "name": "Lebanon",
+    "official": "Lebanese Republic",
+    "currency": [
+      "LBP"
+    ],
+    "capital": "Beirut",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "borders": [
+      "ISR",
+      "SYR"
+    ],
+    "area": 10452,
+    "NY.GDP.PCAP.CD": {
+      "value": "9928.03809840595",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "17173.8422362362",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "LR": {
+    "name": "Liberia",
+    "official": "Republic of Liberia",
+    "currency": [
+      "LRD"
+    ],
+    "capital": "Monrovia",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ],
+    "area": 111369,
+    "NY.GDP.PCAP.CD": {
+      "value": "454.337483405654",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "877.995480056484",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "LY": {
+    "name": "Libya",
+    "official": "State of Libya",
+    "currency": [
+      "LYD"
+    ],
+    "capital": "Tripoli",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "DZA",
+      "TCD",
+      "EGY",
+      "NER",
+      "SDN",
+      "TUN"
+    ],
+    "area": 1759540,
+    "NY.GDP.PCAP.CD": {
+      "value": "11964.7306962965",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "21046.3473378789",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "LC": {
+    "name": "Saint Lucia",
+    "official": "Saint Lucia",
+    "currency": [
+      "XCD"
+    ],
+    "capital": "Castries",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 616,
+    "NY.GDP.PCAP.CD": {
+      "value": "7328.37069182551",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "10487.9682765538",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "LI": {
+    "name": "Liechtenstein",
+    "official": "Principality of Liechtenstein",
+    "currency": [
+      "CHF"
+    ],
+    "capital": "Vaduz",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "German"
+    ],
+    "borders": [
+      "AUT",
+      "CHE"
+    ],
+    "area": 160,
+    "NY.GDP.PCAP.CD": {
+      "value": "134617.379609051",
+      "date": "2009",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "LK": {
+    "name": "Sri Lanka",
+    "official": "Democratic Socialist Republic of Sri Lanka",
+    "currency": [
+      "LKR"
+    ],
+    "capital": "Colombo",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Sinhala",
+      "Tamil"
+    ],
+    "borders": [
+      "IND"
+    ],
+    "area": 65610,
+    "NY.GDP.PCAP.CD": {
+      "value": "3279.89138972612",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9738.11917417447",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "LS": {
+    "name": "Lesotho",
+    "official": "Kingdom of Lesotho",
+    "currency": [
+      "LSL",
+      "ZAR"
+    ],
+    "capital": "Maseru",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": [
+      "English",
+      "Sotho"
+    ],
+    "borders": [
+      "ZAF"
+    ],
+    "area": 30355,
+    "NY.GDP.PCAP.CD": {
+      "value": "1125.58642735989",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2576.25549405545",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "LT": {
+    "name": "Lithuania",
+    "official": "Republic of Lithuania",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Vilnius",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Lithuanian"
+    ],
+    "borders": [
+      "BLR",
+      "LVA",
+      "POL",
+      "RUS"
+    ],
+    "area": 65300,
+    "NY.GDP.PCAP.CD": {
+      "value": "15529.6816107657",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "25453.5447491874",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "LU": {
+    "name": "Luxembourg",
+    "official": "Grand Duchy of Luxembourg",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Luxembourg",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "German",
+      "French",
+      "Luxembourgish"
+    ],
+    "borders": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ],
+    "area": 2586,
+    "NY.GDP.PCAP.CD": {
+      "value": "110664.840296737",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "91047.5888834933",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "LV": {
+    "name": "Latvia",
+    "official": "Republic of Latvia",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Riga",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Latvian"
+    ],
+    "borders": [
+      "BLR",
+      "EST",
+      "LTU",
+      "RUS"
+    ],
+    "area": 64559,
+    "NY.GDP.PCAP.CD": {
+      "value": "15381.0835320788",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "22568.5023237427",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MO": {
+    "name": "Macau",
+    "official": "Macao Special Administrative Region of the People's Republic of China",
+    "currency": [
+      "MOP"
+    ],
+    "capital": "",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Portuguese",
+      "Chinese"
+    ],
+    "borders": [
+      "CHN"
+    ],
+    "area": 30,
+    "NY.GDP.PCAP.CD": {
+      "value": "91376.0225367419",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "142599.240319212",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MF": {
+    "name": "Saint Martin",
+    "official": "Saint Martin",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Marigot",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "SXM"
+    ],
+    "area": 53,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MA": {
+    "name": "Morocco",
+    "official": "Kingdom of Morocco",
+    "currency": [
+      "MAD"
+    ],
+    "capital": "Rabat",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic",
+      "Berber"
+    ],
+    "borders": [
+      "DZA",
+      "ESH",
+      "ESP"
+    ],
+    "area": 446550,
+    "NY.GDP.PCAP.CD": {
+      "value": "3092.60654509577",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7198.16371916788",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MC": {
+    "name": "Monaco",
+    "official": "Principality of Monaco",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Monaco",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "FRA"
+    ],
+    "area": 2.02,
+    "NY.GDP.PCAP.CD": {
+      "value": "163025.859027458",
+      "date": "2011",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MD": {
+    "name": "Moldova",
+    "official": "Republic of Moldova",
+    "currency": [
+      "MDL"
+    ],
+    "capital": "Chișinău",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Moldavian"
+    ],
+    "borders": [
+      "ROU",
+      "UKR"
+    ],
+    "area": 33846,
+    "NY.GDP.PCAP.CD": {
+      "value": "2239.55912744088",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4670.91976235625",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MG": {
+    "name": "Madagascar",
+    "official": "Republic of Madagascar",
+    "currency": [
+      "MGA"
+    ],
+    "capital": "Antananarivo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "French",
+      "Malagasy"
+    ],
+    "borders": [
+
+    ],
+    "area": 587041,
+    "NY.GDP.PCAP.CD": {
+      "value": "462.968942802867",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1413.99075673979",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MV": {
+    "name": "Maldives",
+    "official": "Republic of the Maldives",
+    "currency": [
+      "MVR"
+    ],
+    "capital": "Malé",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Maldivian"
+    ],
+    "borders": [
+
+    ],
+    "area": 300,
+    "NY.GDP.PCAP.CD": {
+      "value": "6665.76769481571",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11656.7428360248",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MX": {
+    "name": "Mexico",
+    "official": "United Mexican States",
+    "currency": [
+      "MXN"
+    ],
+    "capital": "Mexico City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "BLZ",
+      "GTM",
+      "USA"
+    ],
+    "area": 1964375,
+    "NY.GDP.PCAP.CD": {
+      "value": "10307.283036092",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "16369.6856266379",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MH": {
+    "name": "Marshall Islands",
+    "official": "Republic of the Marshall Islands",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Majuro",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "English",
+      "Marshallese"
+    ],
+    "borders": [
+
+    ],
+    "area": 181,
+    "NY.GDP.PCAP.CD": {
+      "value": "3627.21054831478",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3900.99731010833",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MK": {
+    "name": "Macedonia",
+    "official": "Republic of Macedonia",
+    "currency": [
+      "MKD"
+    ],
+    "capital": "Skopje",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Macedonian"
+    ],
+    "borders": [
+      "ALB",
+      "BGR",
+      "GRC",
+      "KOS",
+      "SRB"
+    ],
+    "area": 25713,
+    "NY.GDP.PCAP.CD": {
+      "value": "4838.46210462289",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11611.97490519",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "ML": {
+    "name": "Mali",
+    "official": "Republic of Mali",
+    "currency": [
+      "XOF"
+    ],
+    "capital": "Bamako",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ],
+    "area": 1240192,
+    "NY.GDP.PCAP.CD": {
+      "value": "715.133812989422",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1641.83452128449",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MT": {
+    "name": "Malta",
+    "official": "Republic of Malta",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Valletta",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "English",
+      "Maltese"
+    ],
+    "borders": [
+
+    ],
+    "area": 316,
+    "NY.GDP.PCAP.CD": {
+      "value": "22774.9603787941",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "29126.7811266912",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MM": {
+    "name": "Myanmar",
+    "official": "Republic of the Union of Myanmar",
+    "currency": [
+      "MMK"
+    ],
+    "capital": "Naypyidaw",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Burmese"
+    ],
+    "borders": [
+      "BGD",
+      "CHN",
+      "IND",
+      "LAO",
+      "THA"
+    ],
+    "area": 676578,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "ME": {
+    "name": "Montenegro",
+    "official": "Montenegro",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Podgorica",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Montenegrin"
+    ],
+    "borders": [
+      "ALB",
+      "BIH",
+      "HRV",
+      "KOS",
+      "SRB"
+    ],
+    "area": 13812,
+    "NY.GDP.PCAP.CD": {
+      "value": "7106.86177444835",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "14131.6050000068",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MN": {
+    "name": "Mongolia",
+    "official": "Mongolia",
+    "currency": [
+      "MNT"
+    ],
+    "capital": "Ulan Bator",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Mongolian"
+    ],
+    "borders": [
+      "CHN",
+      "RUS"
+    ],
+    "area": 1564110,
+    "NY.GDP.PCAP.CD": {
+      "value": "4056.39783876598",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9434.9627693653",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MP": {
+    "name": "Northern Mariana Islands",
+    "official": "Commonwealth of the Northern Mariana Islands",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Saipan",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "Carolinian",
+      "Chamorro",
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 464,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MZ": {
+    "name": "Mozambique",
+    "official": "Republic of Mozambique",
+    "currency": [
+      "MZN"
+    ],
+    "capital": "Maputo",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "borders": [
+      "MWI",
+      "ZAF",
+      "SWZ",
+      "TZA",
+      "ZMB",
+      "ZWE"
+    ],
+    "area": 801590,
+    "NY.GDP.PCAP.CD": {
+      "value": "605.034174437901",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1105.07349763736",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MR": {
+    "name": "Mauritania",
+    "official": "Islamic Republic of Mauritania",
+    "currency": [
+      "MRO"
+    ],
+    "capital": "Nouakchott",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ],
+    "area": 1030700,
+    "NY.GDP.PCAP.CD": {
+      "value": "1068.97459670874",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3042.83849410548",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MS": {
+    "name": "Montserrat",
+    "official": "Montserrat",
+    "currency": [
+      "XCD"
+    ],
+    "capital": "Plymouth",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 102,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MQ": {
+    "name": "Martinique",
+    "official": "Martinique",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Fort-de-France",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 1128,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MU": {
+    "name": "Mauritius",
+    "official": "Republic of Mauritius",
+    "currency": [
+      "MUR"
+    ],
+    "capital": "Port Louis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "French",
+      "Mauritian Creole"
+    ],
+    "borders": [
+
+    ],
+    "area": 2040,
+    "NY.GDP.PCAP.CD": {
+      "value": "9477.79158698406",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "17714.017756009",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MW": {
+    "name": "Malawi",
+    "official": "Republic of Malawi",
+    "currency": [
+      "MWK"
+    ],
+    "capital": "Lilongwe",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "Chewa"
+    ],
+    "borders": [
+      "MOZ",
+      "TZA",
+      "ZMB"
+    ],
+    "area": 118484,
+    "NY.GDP.PCAP.CD": {
+      "value": "226.45510265016",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "780.003107565482",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "MY": {
+    "name": "Malaysia",
+    "official": "Malaysia",
+    "currency": [
+      "MYR"
+    ],
+    "capital": "Kuala Lumpur",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "English",
+      "Malay"
+    ],
+    "borders": [
+      "BRN",
+      "IDN",
+      "THA"
+    ],
+    "area": 330803,
+    "NY.GDP.PCAP.CD": {
+      "value": "10538.0578871612",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "23338.0140244332",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "YT": {
+    "name": "Mayotte",
+    "official": "Department of Mayotte",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Mamoudzou",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 374,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NA": {
+    "name": "Namibia",
+    "official": "Republic of Namibia",
+    "currency": [
+      "NAD",
+      "ZAR"
+    ],
+    "capital": "Windhoek",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": [
+      "Afrikaans",
+      "German",
+      "English",
+      "Herero",
+      "Khoekhoe",
+      "Kwangali",
+      "Lozi",
+      "Ndonga",
+      "Tswana"
+    ],
+    "borders": [
+      "AGO",
+      "BWA",
+      "ZAF",
+      "ZMB"
+    ],
+    "area": 825615,
+    "NY.GDP.PCAP.CD": {
+      "value": "5693.12915367405",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "9583.18475656442",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NC": {
+    "name": "New Caledonia",
+    "official": "New Caledonia",
+    "currency": [
+      "XPF"
+    ],
+    "capital": "Nouméa",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 18575,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NE": {
+    "name": "Niger",
+    "official": "Republic of Niger",
+    "currency": [
+      "XOF"
+    ],
+    "capital": "Niamey",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "DZA",
+      "BEN",
+      "BFA",
+      "TCD",
+      "LBY",
+      "MLI",
+      "NGA"
+    ],
+    "area": 1267000,
+    "NY.GDP.PCAP.CD": {
+      "value": "415.417321798037",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "916.199691229844",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NF": {
+    "name": "Norfolk Island",
+    "official": "Territory of Norfolk Island",
+    "currency": [
+      "AUD"
+    ],
+    "capital": "Kingston",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": [
+      "English",
+      "Norfuk"
+    ],
+    "borders": [
+
+    ],
+    "area": 36,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NG": {
+    "name": "Nigeria",
+    "official": "Federal Republic of Nigeria",
+    "currency": [
+      "NGN"
+    ],
+    "capital": "Abuja",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+      "BEN",
+      "CMR",
+      "TCD",
+      "NER"
+    ],
+    "area": 923768,
+    "NY.GDP.PCAP.CD": {
+      "value": "3005.51379633974",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5602.40879552442",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NI": {
+    "name": "Nicaragua",
+    "official": "Republic of Nicaragua",
+    "currency": [
+      "NIO"
+    ],
+    "capital": "Managua",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "CRI",
+      "HND"
+    ],
+    "area": 130373,
+    "NY.GDP.PCAP.CD": {
+      "value": "1851.10585221271",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4642.69625070461",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NU": {
+    "name": "Niue",
+    "official": "Niue",
+    "currency": [
+      "NZD"
+    ],
+    "capital": "Alofi",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Niuean"
+    ],
+    "borders": [
+
+    ],
+    "area": 260,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NL": {
+    "name": "Netherlands",
+    "official": "Netherlands",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Amsterdam",
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "languages": [
+      "Dutch"
+    ],
+    "borders": [
+      "BEL",
+      "DEU"
+    ],
+    "area": 41850,
+    "NY.GDP.PCAP.CD": {
+      "value": "50792.5142584086",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "46162.0916473842",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NO": {
+    "name": "Norway",
+    "official": "Kingdom of Norway",
+    "currency": [
+      "NOK"
+    ],
+    "capital": "Oslo",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Norwegian Nynorsk",
+      "Norwegian Bokmål",
+      "Sami"
+    ],
+    "borders": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ],
+    "area": 323802,
+    "NY.GDP.PCAP.CD": {
+      "value": "100898.361496832",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "64405.7122213084",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NP": {
+    "name": "Nepal",
+    "official": "Federal Democratic Republic of Nepal",
+    "currency": [
+      "NPR"
+    ],
+    "capital": "Kathmandu",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "Nepali"
+    ],
+    "borders": [
+      "CHN",
+      "IND"
+    ],
+    "area": 147181,
+    "NY.GDP.PCAP.CD": {
+      "value": "694.10479433434",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2244.79962842638",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NR": {
+    "name": "Nauru",
+    "official": "Republic of Nauru",
+    "currency": [
+      "AUD"
+    ],
+    "capital": "Yaren",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "English",
+      "Nauru"
+    ],
+    "borders": [
+
+    ],
+    "area": 21,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "NZ": {
+    "name": "New Zealand",
+    "official": "New Zealand",
+    "currency": [
+      "NZD"
+    ],
+    "capital": "Wellington",
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "languages": [
+      "English",
+      "Māori",
+      "New Zealand Sign Language"
+    ],
+    "borders": [
+
+    ],
+    "area": 270467,
+    "NY.GDP.PCAP.CD": {
+      "value": "41824.3228389982",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "34731.5690656862",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "OM": {
+    "name": "Oman",
+    "official": "Sultanate of Oman",
+    "currency": [
+      "OMR"
+    ],
+    "capital": "Muscat",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "SAU",
+      "ARE",
+      "YEM"
+    ],
+    "area": 309500,
+    "NY.GDP.PCAP.CD": {
+      "value": "21929.0145745223",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "45333.7502649033",
+      "date": "2012",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PK": {
+    "name": "Pakistan",
+    "official": "Islamic Republic of Pakistan",
+    "currency": [
+      "PKR"
+    ],
+    "capital": "Islamabad",
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "languages": [
+      "English",
+      "Urdu"
+    ],
+    "borders": [
+      "AFG",
+      "CHN",
+      "IND",
+      "IRN"
+    ],
+    "area": 881912,
+    "NY.GDP.PCAP.CD": {
+      "value": "1275.30181716068",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4601.68894303447",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PA": {
+    "name": "Panama",
+    "official": "Republic of Panama",
+    "currency": [
+      "PAB",
+      "USD"
+    ],
+    "capital": "Panama City",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "COL",
+      "CRI"
+    ],
+    "area": 75417,
+    "NY.GDP.PCAP.CD": {
+      "value": "11036.8073868386",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "19416.2320170688",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PN": {
+    "name": "Pitcairn Islands",
+    "official": "Pitcairn Group of Islands",
+    "currency": [
+      "NZD"
+    ],
+    "capital": "Adamstown",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 47,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PE": {
+    "name": "Peru",
+    "official": "Republic of Peru",
+    "currency": [
+      "PEN"
+    ],
+    "capital": "Lima",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Aymara",
+      "Quechua",
+      "Spanish"
+    ],
+    "borders": [
+      "BOL",
+      "BRA",
+      "CHL",
+      "COL",
+      "ECU"
+    ],
+    "area": 1285216,
+    "NY.GDP.PCAP.CD": {
+      "value": "6661.59111226107",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11774.1883417434",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PH": {
+    "name": "Philippines",
+    "official": "Republic of the Philippines",
+    "currency": [
+      "PHP"
+    ],
+    "capital": "Manila",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "English",
+      "Filipino"
+    ],
+    "borders": [
+
+    ],
+    "area": 342353,
+    "NY.GDP.PCAP.CD": {
+      "value": "2765.08458658032",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "6535.87586381471",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PW": {
+    "name": "Palau",
+    "official": "Republic of Palau",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Ngerulmud",
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "languages": [
+      "English",
+      "Palauan"
+    ],
+    "borders": [
+
+    ],
+    "area": 459,
+    "NY.GDP.PCAP.CD": {
+      "value": "11810.087006406",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "15095.9881392384",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PG": {
+    "name": "Papua New Guinea",
+    "official": "Independent State of Papua New Guinea",
+    "currency": [
+      "PGK"
+    ],
+    "capital": "Port Moresby",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": [
+      "English",
+      "Hiri Motu",
+      "Tok Pisin"
+    ],
+    "borders": [
+      "IDN"
+    ],
+    "area": 462840,
+    "NY.GDP.PCAP.CD": {
+      "value": "2105.26987638661",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2642.90578071692",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PL": {
+    "name": "Poland",
+    "official": "Republic of Poland",
+    "currency": [
+      "PLN"
+    ],
+    "capital": "Warsaw",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Polish"
+    ],
+    "borders": [
+      "BLR",
+      "CZE",
+      "DEU",
+      "LTU",
+      "RUS",
+      "SVK",
+      "UKR"
+    ],
+    "area": 312679,
+    "NY.GDP.PCAP.CD": {
+      "value": "13653.7216254414",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "23689.9023666708",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PR": {
+    "name": "Puerto Rico",
+    "official": "Commonwealth of Puerto Rico",
+    "currency": [
+      "USD"
+    ],
+    "capital": "San Juan",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "borders": [
+
+    ],
+    "area": 8870,
+    "NY.GDP.PCAP.CD": {
+      "value": "28528.9970971645",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "34752.376062686",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "KP": {
+    "name": "North Korea",
+    "official": "Democratic People's Republic of Korea",
+    "currency": [
+      "KPW"
+    ],
+    "capital": "Pyongyang",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Korean"
+    ],
+    "borders": [
+      "CHN",
+      "KOR",
+      "RUS"
+    ],
+    "area": 120538,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PT": {
+    "name": "Portugal",
+    "official": "Portuguese Republic",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Lisbon",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Portuguese"
+    ],
+    "borders": [
+      "ESP"
+    ],
+    "area": 92090,
+    "NY.GDP.PCAP.CD": {
+      "value": "21738.291595169",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "27804.1561094391",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PY": {
+    "name": "Paraguay",
+    "official": "Republic of Paraguay",
+    "currency": [
+      "PYG"
+    ],
+    "capital": "Asunción",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Guaraní",
+      "Spanish"
+    ],
+    "borders": [
+      "ARG",
+      "BOL",
+      "BRA"
+    ],
+    "area": 406752,
+    "NY.GDP.PCAP.CD": {
+      "value": "4264.65064186682",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "8092.67275665026",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PS": {
+    "name": "Palestine",
+    "official": "State of Palestine",
+    "currency": [
+      "ILS"
+    ],
+    "capital": "Ramallah",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "ISR",
+      "EGY",
+      "JOR"
+    ],
+    "area": 6220,
+    "NY.GDP.PCAP.CD": {
+      "value": "2782.90502643023",
+      "date": "2012",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "4921.39285519528",
+      "date": "2012",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PF": {
+    "name": "French Polynesia",
+    "official": "French Polynesia",
+    "currency": [
+      "XPF"
+    ],
+    "capital": "Papeetē",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 4167,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "QA": {
+    "name": "Qatar",
+    "official": "State of Qatar",
+    "currency": [
+      "QAR"
+    ],
+    "capital": "Doha",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "SAU"
+    ],
+    "area": 11586,
+    "NY.GDP.PCAP.CD": {
+      "value": "93714.0633825214",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "136727.253610167",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "RE": {
+    "name": "Réunion",
+    "official": "Réunion Island",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Saint-Denis",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 2511,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "RO": {
+    "name": "Romania",
+    "official": "Romania",
+    "currency": [
+      "RON"
+    ],
+    "capital": "Bucharest",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Romanian"
+    ],
+    "borders": [
+      "BGR",
+      "HUN",
+      "MDA",
+      "SRB",
+      "UKR"
+    ],
+    "area": 238391,
+    "NY.GDP.PCAP.CD": {
+      "value": "9490.75443287045",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "18974.4057849472",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "RU": {
+    "name": "Russia",
+    "official": "Russian Federation",
+    "currency": [
+      "RUB"
+    ],
+    "capital": "Moscow",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Russian"
+    ],
+    "borders": [
+      "AZE",
+      "BLR",
+      "CHN",
+      "EST",
+      "FIN",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "LVA",
+      "LTU",
+      "MNG",
+      "NOR",
+      "POL",
+      "UKR"
+    ],
+    "area": 17098242,
+    "NY.GDP.PCAP.CD": {
+      "value": "14611.700777684",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "25247.9400353489",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "RW": {
+    "name": "Rwanda",
+    "official": "Republic of Rwanda",
+    "currency": [
+      "RWF"
+    ],
+    "capital": "Kigali",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "French",
+      "Kinyarwanda"
+    ],
+    "borders": [
+      "BDI",
+      "COD",
+      "TZA",
+      "UGA"
+    ],
+    "area": 26338,
+    "NY.GDP.PCAP.CD": {
+      "value": "638.66579543853",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1473.63801166274",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SA": {
+    "name": "Saudi Arabia",
+    "official": "Kingdom of Saudi Arabia",
+    "currency": [
+      "SAR"
+    ],
+    "capital": "Riyadh",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "IRQ",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE",
+      "YEM"
+    ],
+    "area": 2149690,
+    "NY.GDP.PCAP.CD": {
+      "value": "25961.8084232923",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "53644.1269250098",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SD": {
+    "name": "Sudan",
+    "official": "Republic of the Sudan",
+    "currency": [
+      "SDG"
+    ],
+    "capital": "Khartoum",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "borders": [
+      "CAF",
+      "TCD",
+      "EGY",
+      "ERI",
+      "ETH",
+      "LBY",
+      "SSD"
+    ],
+    "area": 1886068,
+    "NY.GDP.PCAP.CD": {
+      "value": "1753.38091039699",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3372.97200690061",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SN": {
+    "name": "Senegal",
+    "official": "Republic of Senegal",
+    "currency": [
+      "XOF"
+    ],
+    "capital": "Dakar",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "GMB",
+      "GIN",
+      "GNB",
+      "MLI",
+      "MRT"
+    ],
+    "area": 196722,
+    "NY.GDP.PCAP.CD": {
+      "value": "1046.58642640507",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2241.99652516017",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SG": {
+    "name": "Singapore",
+    "official": "Republic of Singapore",
+    "currency": [
+      "SGD"
+    ],
+    "capital": "Singapore",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Mandarin",
+      "English",
+      "Malay",
+      "Tamil"
+    ],
+    "borders": [
+
+    ],
+    "area": 710,
+    "NY.GDP.PCAP.CD": {
+      "value": "55182.4827916113",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "78763.3849443771",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "GS": {
+    "name": "South Georgia",
+    "official": "South Georgia and the South Sandwich Islands",
+    "currency": [
+      "GBP"
+    ],
+    "capital": "King Edward Point",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 3903,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SJ": {
+    "name": "Svalbard and Jan Mayen",
+    "official": "Svalbard og Jan Mayen",
+    "currency": [
+      "NOK"
+    ],
+    "capital": "Longyearbyen",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Norwegian"
+    ],
+    "borders": [
+
+    ],
+    "area": -1,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SB": {
+    "name": "Solomon Islands",
+    "official": "Solomon Islands",
+    "currency": [
+      "SDB"
+    ],
+    "capital": "Honiara",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 28896,
+    "NY.GDP.PCAP.CD": {
+      "value": "1953.55731759549",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2068.96106224769",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SL": {
+    "name": "Sierra Leone",
+    "official": "Republic of Sierra Leone",
+    "currency": [
+      "SLL"
+    ],
+    "capital": "Freetown",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+      "GIN",
+      "LBR"
+    ],
+    "area": 71740,
+    "NY.GDP.PCAP.CD": {
+      "value": "678.960904459799",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1544.18323961817",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SV": {
+    "name": "El Salvador",
+    "official": "Republic of El Salvador",
+    "currency": [
+      "SVC",
+      "USD"
+    ],
+    "capital": "San Salvador",
+    "region": "Americas",
+    "subregion": "Central America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "GTM",
+      "HND"
+    ],
+    "area": 21041,
+    "NY.GDP.PCAP.CD": {
+      "value": "3826.08248557595",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "7764.14274460714",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SM": {
+    "name": "San Marino",
+    "official": "Most Serene Republic of San Marino",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "City of San Marino",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Italian"
+    ],
+    "borders": [
+      "ITA"
+    ],
+    "area": 61,
+    "NY.GDP.PCAP.CD": {
+      "value": "62188.9285937468",
+      "date": "2008",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SO": {
+    "name": "Somalia",
+    "official": "Federal Republic of Somalia",
+    "currency": [
+      "SOS"
+    ],
+    "capital": "Mogadishu",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Arabic",
+      "Somali"
+    ],
+    "borders": [
+      "DJI",
+      "ETH",
+      "KEN"
+    ],
+    "area": 637657,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "PM": {
+    "name": "Saint Pierre and Miquelon",
+    "official": "Saint Pierre and Miquelon",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Saint-Pierre",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 242,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "RS": {
+    "name": "Serbia",
+    "official": "Republic of Serbia",
+    "currency": [
+      "RSD"
+    ],
+    "capital": "Belgrade",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Serbian"
+    ],
+    "borders": [
+      "BIH",
+      "BGR",
+      "HRV",
+      "HUN",
+      "KOS",
+      "MKD",
+      "MNE",
+      "ROU"
+    ],
+    "area": 88361,
+    "NY.GDP.PCAP.CD": {
+      "value": "6353.82638279332",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "13019.8207194707",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SS": {
+    "name": "South Sudan",
+    "official": "Republic of South Sudan",
+    "currency": [
+      "SSP"
+    ],
+    "capital": "Juba",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+      "CAF",
+      "COD",
+      "ETH",
+      "KEN",
+      "SDN",
+      "UGA"
+    ],
+    "area": 619745,
+    "NY.GDP.PCAP.CD": {
+      "value": "1044.99516223827",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2029.7334400689",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "ST": {
+    "name": "São Tomé and Príncipe",
+    "official": "Democratic Republic of São Tomé and Príncipe",
+    "currency": [
+      "STD"
+    ],
+    "capital": "São Tomé",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "borders": [
+
+    ],
+    "area": 964,
+    "NY.GDP.PCAP.CD": {
+      "value": "1609.82333937573",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2971.06707976578",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SR": {
+    "name": "Suriname",
+    "official": "Republic of Suriname",
+    "currency": [
+      "SRD"
+    ],
+    "capital": "Paramaribo",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Dutch"
+    ],
+    "borders": [
+      "BRA",
+      "GUF",
+      "GUY"
+    ],
+    "area": 163820,
+    "NY.GDP.PCAP.CD": {
+      "value": "9825.74392108657",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "16071.3846314326",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SK": {
+    "name": "Slovakia",
+    "official": "Slovak Republic",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Bratislava",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Slovak"
+    ],
+    "borders": [
+      "AUT",
+      "CZE",
+      "HUN",
+      "POL",
+      "UKR"
+    ],
+    "area": 49037,
+    "NY.GDP.PCAP.CD": {
+      "value": "18049.183464063",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "26496.6154491917",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SI": {
+    "name": "Slovenia",
+    "official": "Republic of Slovenia",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Ljubljana",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Slovene"
+    ],
+    "borders": [
+      "AUT",
+      "HRV",
+      "ITA",
+      "HUN"
+    ],
+    "area": 20273,
+    "NY.GDP.PCAP.CD": {
+      "value": "23295.3390867714",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "28858.6813467723",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SE": {
+    "name": "Sweden",
+    "official": "Kingdom of Sweden",
+    "currency": [
+      "SEK"
+    ],
+    "capital": "Stockholm",
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": [
+      "Swedish"
+    ],
+    "borders": [
+      "FIN",
+      "NOR"
+    ],
+    "area": 450295,
+    "NY.GDP.PCAP.CD": {
+      "value": "60380.9480129258",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "44658.2317867812",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SZ": {
+    "name": "Swaziland",
+    "official": "Kingdom of Swaziland",
+    "currency": [
+      "SZL"
+    ],
+    "capital": "Lobamba",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": [
+      "English",
+      "Swazi"
+    ],
+    "borders": [
+      "MOZ",
+      "ZAF"
+    ],
+    "area": 17364,
+    "NY.GDP.PCAP.CD": {
+      "value": "3034.2231842349",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "6685.33811734131",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SX": {
+    "name": "Sint Maarten",
+    "official": "Sint Maarten",
+    "currency": [
+      "ANG"
+    ],
+    "capital": "Philipsburg",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English",
+      "French",
+      "Dutch"
+    ],
+    "borders": [
+      "MAF"
+    ],
+    "area": 34,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SC": {
+    "name": "Seychelles",
+    "official": "Republic of Seychelles",
+    "currency": [
+      "SCR"
+    ],
+    "capital": "Victoria",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Seychellois Creole",
+      "English",
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 452,
+    "NY.GDP.PCAP.CD": {
+      "value": "16185.8994805264",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "24587.4855947311",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "SY": {
+    "name": "Syria",
+    "official": "Syrian Arab Republic",
+    "currency": [
+      "SYP"
+    ],
+    "capital": "Damascus",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN",
+      "TUR"
+    ],
+    "area": 185180,
+    "NY.GDP.PCAP.CD": {
+      "value": "2065.53963216625",
+      "date": "2007",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TC": {
+    "name": "Turks and Caicos Islands",
+    "official": "Turks and Caicos Islands",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Cockburn Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 948,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TD": {
+    "name": "Chad",
+    "official": "Republic of Chad",
+    "currency": [
+      "XAF"
+    ],
+    "capital": "N'Djamena",
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "borders": [
+      "CMR",
+      "CAF",
+      "LBY",
+      "NER",
+      "NGA",
+      "SSD"
+    ],
+    "area": 1284000,
+    "NY.GDP.PCAP.CD": {
+      "value": "1053.66250096527",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2088.5918355193",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TG": {
+    "name": "Togo",
+    "official": "Togolese Republic",
+    "currency": [
+      "XOF"
+    ],
+    "capital": "Lomé",
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+      "BEN",
+      "BFA",
+      "GHA"
+    ],
+    "area": 56785,
+    "NY.GDP.PCAP.CD": {
+      "value": "636.436450003819",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1390.51971095318",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TH": {
+    "name": "Thailand",
+    "official": "Kingdom of Thailand",
+    "currency": [
+      "THB"
+    ],
+    "capital": "Bangkok",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Thai"
+    ],
+    "borders": [
+      "MMR",
+      "KHM",
+      "LAO",
+      "MYS"
+    ],
+    "area": 513120,
+    "NY.GDP.PCAP.CD": {
+      "value": "5778.97721600158",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "14393.5307035565",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TJ": {
+    "name": "Tajikistan",
+    "official": "Republic of Tajikistan",
+    "currency": [
+      "TJS"
+    ],
+    "capital": "Dushanbe",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": [
+      "Russian",
+      "Tajik"
+    ],
+    "borders": [
+      "AFG",
+      "CHN",
+      "KGZ",
+      "UZB"
+    ],
+    "area": 143100,
+    "NY.GDP.PCAP.CD": {
+      "value": "1036.58327586973",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2512.24756635",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TK": {
+    "name": "Tokelau",
+    "official": "Tokelau",
+    "currency": [
+      "NZD"
+    ],
+    "capital": "Fakaofo",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Samoan",
+      "Tokelauan"
+    ],
+    "borders": [
+
+    ],
+    "area": 12,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TM": {
+    "name": "Turkmenistan",
+    "official": "Turkmenistan",
+    "currency": [
+      "TMT"
+    ],
+    "capital": "Ashgabat",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": [
+      "Russian",
+      "Turkmen"
+    ],
+    "borders": [
+      "AFG",
+      "IRN",
+      "KAZ",
+      "UZB"
+    ],
+    "area": 488100,
+    "NY.GDP.PCAP.CD": {
+      "value": "7986.69888371428",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "14004.160056658",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TL": {
+    "name": "Timor-Leste",
+    "official": "Democratic Republic of Timor-Leste",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Dili",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Portuguese",
+      "Tetum"
+    ],
+    "borders": [
+      "IDN"
+    ],
+    "area": 14874,
+    "NY.GDP.PCAP.CD": {
+      "value": "1105.34936873236",
+      "date": "2012",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2076.43707854128",
+      "date": "2012",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TO": {
+    "name": "Tonga",
+    "official": "Kingdom of Tonga",
+    "currency": [
+      "TOP"
+    ],
+    "capital": "Nuku'alofa",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Tongan"
+    ],
+    "borders": [
+
+    ],
+    "area": 747,
+    "NY.GDP.PCAP.CD": {
+      "value": "4426.94458088684",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5304.20668898596",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TT": {
+    "name": "Trinidad and Tobago",
+    "official": "Republic of Trinidad and Tobago",
+    "currency": [
+      "TTD"
+    ],
+    "capital": "Port of Spain",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 5130,
+    "NY.GDP.PCAP.CD": {
+      "value": "18372.9043244137",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "30446.0075388524",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TN": {
+    "name": "Tunisia",
+    "official": "Tunisian Republic",
+    "currency": [
+      "TND"
+    ],
+    "capital": "Tunis",
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "DZA",
+      "LBY"
+    ],
+    "area": 163610,
+    "NY.GDP.PCAP.CD": {
+      "value": "4316.68569496563",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "11124.4960087614",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TR": {
+    "name": "Turkey",
+    "official": "Republic of Turkey",
+    "currency": [
+      "TRY"
+    ],
+    "capital": "Ankara",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Turkish"
+    ],
+    "borders": [
+      "ARM",
+      "AZE",
+      "BGR",
+      "GEO",
+      "GRC",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "area": 783562,
+    "NY.GDP.PCAP.CD": {
+      "value": "10971.6563060949",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "18782.8457521051",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TV": {
+    "name": "Tuvalu",
+    "official": "Tuvalu",
+    "currency": [
+      "AUD"
+    ],
+    "capital": "Funafuti",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Tuvaluan"
+    ],
+    "borders": [
+
+    ],
+    "area": 26,
+    "NY.GDP.PCAP.CD": {
+      "value": "3880.35232167543",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3645.1579296558",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TW": {
+    "name": "Taiwan",
+    "official": "Republic of China",
+    "currency": [
+      "TWD"
+    ],
+    "capital": "Taipei",
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": [
+      "Mandarin"
+    ],
+    "borders": [
+
+    ],
+    "area": 36193,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "TZ": {
+    "name": "Tanzania",
+    "official": "United Republic of Tanzania",
+    "currency": [
+      "TZS"
+    ],
+    "capital": "Dodoma",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "borders": [
+      "BDI",
+      "COD",
+      "KEN",
+      "MWI",
+      "MOZ",
+      "RWA",
+      "UGA",
+      "ZMB"
+    ],
+    "area": 945087,
+    "NY.GDP.PCAP.CD": {
+      "value": "912.700309666541",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2443.07223107863",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "UG": {
+    "name": "Uganda",
+    "official": "Republic of Uganda",
+    "currency": [
+      "UGX"
+    ],
+    "capital": "Kampala",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "borders": [
+      "COD",
+      "KEN",
+      "RWA",
+      "SSD",
+      "TZA"
+    ],
+    "area": 241550,
+    "NY.GDP.PCAP.CD": {
+      "value": "657.370663533795",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1674.28506898198",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "UA": {
+    "name": "Ukraine",
+    "official": "Ukraine",
+    "currency": [
+      "UAH"
+    ],
+    "capital": "Kiev",
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "languages": [
+      "Russian",
+      "Ukrainian"
+    ],
+    "borders": [
+      "BLR",
+      "HUN",
+      "MDA",
+      "POL",
+      "ROU",
+      "RUS",
+      "SVK"
+    ],
+    "area": 603500,
+    "NY.GDP.PCAP.CD": {
+      "value": "3900.46537573638",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "8789.98200051008",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "UM": {
+    "name": "United States Minor Outlying Islands",
+    "official": "United States Minor Outlying Islands",
+    "currency": [
+      "USD"
+    ],
+    "capital": "",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 34.2,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "UY": {
+    "name": "Uruguay",
+    "official": "Oriental Republic of Uruguay",
+    "currency": [
+      "UYI",
+      "UYU"
+    ],
+    "capital": "Montevideo",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "ARG",
+      "BRA"
+    ],
+    "area": 181034,
+    "NY.GDP.PCAP.CD": {
+      "value": "16350.72817048",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "19594.3695607622",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "US": {
+    "name": "United States",
+    "official": "United States of America",
+    "currency": [
+      "USD",
+      "USN",
+      "USS"
+    ],
+    "capital": "Washington D.C.",
+    "region": "Americas",
+    "subregion": "Northern America",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+      "CAN",
+      "MEX"
+    ],
+    "area": 9372610,
+    "NY.GDP.PCAP.CD": {
+      "value": "53041.9814055623",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "53041.9814055623",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "UZ": {
+    "name": "Uzbekistan",
+    "official": "Republic of Uzbekistan",
+    "currency": [
+      "UZS"
+    ],
+    "capital": "Tashkent",
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": [
+      "Russian",
+      "Uzbek"
+    ],
+    "borders": [
+      "AFG",
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM"
+    ],
+    "area": 447400,
+    "NY.GDP.PCAP.CD": {
+      "value": "1877.9645118434",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5167.9271637961",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "VA": {
+    "name": "Vatican City",
+    "official": "Vatican City State",
+    "currency": [
+      "EUR"
+    ],
+    "capital": "Vatican City",
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "languages": [
+      "Italian",
+      "Latin"
+    ],
+    "borders": [
+      "ITA"
+    ],
+    "area": 0.44,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "VC": {
+    "name": "Saint Vincent and the Grenadines",
+    "official": "Saint Vincent and the Grenadines",
+    "currency": [
+      "XCD"
+    ],
+    "capital": "Kingstown",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 389,
+    "NY.GDP.PCAP.CD": {
+      "value": "6485.67914554035",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "10490.6041669164",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "VE": {
+    "name": "Venezuela",
+    "official": "Bolivarian Republic of Venezuela",
+    "currency": [
+      "VEF"
+    ],
+    "capital": "Caracas",
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": [
+      "Spanish"
+    ],
+    "borders": [
+      "BRA",
+      "COL",
+      "GUY"
+    ],
+    "area": 916445,
+    "NY.GDP.PCAP.CD": {
+      "value": "14414.7535260923",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "18198.3700172414",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "VG": {
+    "name": "British Virgin Islands",
+    "official": "Virgin Islands",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Road Town",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 151,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "VI": {
+    "name": "United States Virgin Islands",
+    "official": "Virgin Islands of the United States",
+    "currency": [
+      "USD"
+    ],
+    "capital": "Charlotte Amalie",
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+
+    ],
+    "area": 347,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "VN": {
+    "name": "Vietnam",
+    "official": "Socialist Republic of Vietnam",
+    "currency": [
+      "VND"
+    ],
+    "capital": "Hanoi",
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "languages": [
+      "Vietnamese"
+    ],
+    "borders": [
+      "KHM",
+      "CHN",
+      "LAO"
+    ],
+    "area": 331212,
+    "NY.GDP.PCAP.CD": {
+      "value": "1910.51281756213",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5294.43986933333",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "VU": {
+    "name": "Vanuatu",
+    "official": "Republic of Vanuatu",
+    "currency": [
+      "VUV"
+    ],
+    "capital": "Port Vila",
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": [
+      "Bislama",
+      "English",
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 12189,
+    "NY.GDP.PCAP.CD": {
+      "value": "3276.73425751835",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "2990.91682998287",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "WF": {
+    "name": "Wallis and Futuna",
+    "official": "Territory of the Wallis and Futuna Islands",
+    "currency": [
+      "XPF"
+    ],
+    "capital": "Mata-Utu",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "French"
+    ],
+    "borders": [
+
+    ],
+    "area": 142,
+    "NY.GDP.PCAP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": null,
+      "date": null,
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "WS": {
+    "name": "Samoa",
+    "official": "Independent State of Samoa",
+    "currency": [
+      "WST"
+    ],
+    "capital": "Apia",
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": [
+      "English",
+      "Samoan"
+    ],
+    "borders": [
+
+    ],
+    "area": 2842,
+    "NY.GDP.PCAP.CD": {
+      "value": "4212.36346519193",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "5768.98576875814",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "YE": {
+    "name": "Yemen",
+    "official": "Republic of Yemen",
+    "currency": [
+      "YER"
+    ],
+    "capital": "Sana'a",
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "borders": [
+      "OMN",
+      "SAU"
+    ],
+    "area": 527968,
+    "NY.GDP.PCAP.CD": {
+      "value": "1473.09956375508",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3959.29188263281",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "ZA": {
+    "name": "South Africa",
+    "official": "Republic of South Africa",
+    "currency": [
+      "ZAR"
+    ],
+    "capital": "Pretoria",
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "languages": [
+      "Afrikaans",
+      "English",
+      "Southern Ndebele",
+      "Northern Sotho",
+      "Southern Sotho",
+      "Swazi",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zulu"
+    ],
+    "borders": [
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ",
+      "ZWE"
+    ],
+    "area": 1221037,
+    "NY.GDP.PCAP.CD": {
+      "value": "6886.29040549387",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "12866.939794068",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "ZM": {
+    "name": "Zambia",
+    "official": "Republic of Zambia",
+    "currency": [
+      "ZMW"
+    ],
+    "capital": "Lusaka",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "English"
+    ],
+    "borders": [
+      "AGO",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM",
+      "TZA",
+      "ZWE"
+    ],
+    "area": 752612,
+    "NY.GDP.PCAP.CD": {
+      "value": "1844.79913932394",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "3925.46238739217",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  },
+  "ZW": {
+    "name": "Zimbabwe",
+    "official": "Republic of Zimbabwe",
+    "currency": [
+      "ZWL"
+    ],
+    "capital": "Harare",
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": [
+      "Chibarwe",
+      "English",
+      "Kalanga",
+      "Khoisan",
+      "Ndau",
+      "Northern Ndebele",
+      "Chewa",
+      "Shona",
+      "Sotho",
+      "Tonga",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zimbabwean Sign Language"
+    ],
+    "borders": [
+      "BWA",
+      "MOZ",
+      "ZAF",
+      "ZMB"
+    ],
+    "area": 390757,
+    "NY.GDP.PCAP.CD": {
+      "value": "953.380607065278",
+      "date": "2013",
+      "statistic": "GDP per capita (current US$)",
+      "origin": "World Development Indicators"
+    },
+    "NY.GDP.PCAP.PP.CD": {
+      "value": "1832.08324432316",
+      "date": "2013",
+      "statistic": "GDP per capita, PPP (current international $)",
+      "origin": "World Development Indicators"
+    }
+  }
 }
