@@ -16,8 +16,10 @@ function setWidget(terms) {
         $("p, div, span, a").replaceText(re, "<img src='" + image + "' class='wv-widget' data-iso='" + c[1] + "' />" + '$1$2');
     });
 
-    // When wodget is clicked, get data and expand
-    $('.wv-widget').on('click', function(e){
+    // When widget is clicked, get data and expand
+    $('.wv-widget').on('click', function(e) {
+        // If it's in an <a> tag, don't follow it
+        e.preventDefault();
         console.log(this);
         var iso = $(this).attr('data-iso');
         chrome.runtime.sendMessage({
