@@ -1,0 +1,62 @@
+.wv-box {
+    height: 300;
+    width: 300;
+    background-color: salmon;
+    border: 1pt solid black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.wv-header {
+    top: 0px;
+    left: 0px;
+    height: 64px;
+    width: 300px;
+    direction: rtl;
+    text-indent: 30px;
+    text-align: right;
+    font-size: 3em;
+    font-weight: bold;
+
+/* For dev purposes */
+    background-color: steelblue;
+
+}
+
+.wv-tabbox {
+    height: 236px;
+    position: relative;
+}
+
+.wv-tab{
+    display: inline-block;
+    background-color: lightgreen;
+}
+
+.wv-tab .content {
+    z-index: -10;
+    width: 100%;
+    height: 236px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: inherit;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.wv-tab.top .content {
+    z-index: inherit;
+}
+
+.wv-tab .label {
+    z-index: 30;
+    position: relative;
+    top: -17px;
+    background-color: inherit;
+    display: inline-block;
+    padding-left: 5px;
+    padding-right: 30px;
+    cursor: pointer;
+    border-top-right-radius: 3px;
+}
