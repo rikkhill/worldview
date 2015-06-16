@@ -42,7 +42,7 @@
     left: 0px;
     background-color: inherit;
     overflow-x: hidden;
-    overflow-y: scroll;
+    overflow-y: auto;
 }
 
 .wv-tab.top .content {
