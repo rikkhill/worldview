@@ -1,5 +1,9 @@
 .wv-widget {
-    text-decoration: inherit; /* Useless for now */
+    cursor: pointer;
+}
+
+.wv-markup {
+    white-space: nowrap;
 }
 
 .wv-box {
