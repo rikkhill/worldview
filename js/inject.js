@@ -12,7 +12,7 @@ function setWidget(terms) {
     var image = chrome.extension.getURL('assets/img/globe.png');
 
     terms.forEach(function(c) {
-        var re = new RegExp("\b(" + c[0] + ")([\\b\\W])", 'gi');
+        var re = new RegExp("\\b(" + c[0] + ")([\\b\\W])", 'gi');
         $("p, div, span, a").replaceText(re, "<img src='" + image + "' class='wv-widget' data-iso='" + c[1] + "' />" + '$1$2');
     });
 
