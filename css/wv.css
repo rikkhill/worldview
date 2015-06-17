@@ -1,3 +1,7 @@
+.wv-widget {
+    text-decoration: inherit; /* Useless for now */
+}
+
 .wv-box {
     height: 300;
     width: 300;
