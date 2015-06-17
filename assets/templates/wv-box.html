@@ -1,23 +1,31 @@
-<div class='wv-box'>
+<div class='wv-box outermost'>
     <div class='wv-header'>
         {{ name }}
     </div>
     <div class='wv-tabbox'>
         <div class='wv-tab top'>
             <div class='label'>Geo</div>
-            <div class='content'>Here is Geo data</div>
+            <div class='content'>The capital is {{capital}}</div>
         </div>
         <div class='wv-tab'>
             <div class='label'>Econ</div>
-            <div class='content'>Here is Econ data</div>
+            <div class='content'>Currency is {{currency}}</div>
         </div>
         <div class='wv-tab'>
             <div class='label'>Trade</div>
-            <div class='content'>Here is Trade data</div>
+            <div class='content'>Borders with the following countries:
+                <ul>
+                {{#borders}}
+                    <li> {{.}}</li>
+                {{/borders}}
+                </ul>
+            </div>
         </div>
         <div class='wv-tab'>
             <div class='label'>Dev</div>
-            <div class='content'>Here is Dev data</div>
+            <div class='content'>
+                GDP Per Capita is ${{NY-GDP-PCAP-CD.value}}
+            </div>
         </div>
     </div>
 </div>

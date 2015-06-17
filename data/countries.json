@@ -16,13 +16,13 @@
 
     ],
     "area": 180,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "25354.7824741086",
       "date": "2011",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "36016.4837574639",
       "date": "2011",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -52,13 +52,13 @@
       "CHN"
     ],
     "area": 652230,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "664.764589155526",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1946.19380603184",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -84,13 +84,13 @@
       "NAM"
     ],
     "area": 1246700,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "5783.36675958641",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "7736.17468163313",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -113,13 +113,13 @@
 
     ],
     "area": 91,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -142,13 +142,13 @@
 
     ],
     "area": 1580,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -174,13 +174,13 @@
       "KOS"
     ],
     "area": 28748,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "4460.34097119302",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "9930.94322639175",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -204,13 +204,13 @@
       "ESP"
     ],
     "area": 468,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "46418.4154673278",
       "date": "2008",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -234,13 +234,13 @@
       "SAU"
     ],
     "area": 83600,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "43048.8501491565",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "59845.2568174939",
       "date": "2012",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -268,13 +268,13 @@
       "URY"
     ],
     "area": 2780400,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "14715.1800198309",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -301,13 +301,13 @@
       "TUR"
     ],
     "area": 29743,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3504.76675848947",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "7776.2860430691",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -331,13 +331,13 @@
 
     ],
     "area": 199,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -360,13 +360,13 @@
 
     ],
     "area": 14000000,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -389,13 +389,13 @@
 
     ],
     "area": 7747,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -418,13 +418,13 @@
 
     ],
     "area": 442,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "13342.0849977054",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "21027.8266399337",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -447,13 +447,13 @@
 
     ],
     "area": 7692024,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "67463.0219299855",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "43202.3676878115",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -483,13 +483,13 @@
       "CHE"
     ],
     "area": 83871,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "50510.7120335195",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "45079.0922111043",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -517,13 +517,13 @@
       "TUR"
     ],
     "area": 86600,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "7811.6214184582",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "17143.1096651869",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -549,13 +549,13 @@
       "TZA"
     ],
     "area": 27834,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "267.109321867395",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "771.71542954274",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -583,13 +583,13 @@
       "NLD"
     ],
     "area": 30528,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "46929.6354590432",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "41574.7563087295",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -615,13 +615,13 @@
       "TGO"
     ],
     "area": 112622,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "804.692498598861",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1790.75363672991",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -649,13 +649,13 @@
       "TGO"
     ],
     "area": 272967,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "760.852951188714",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1684.47965093318",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -679,13 +679,13 @@
       "IND"
     ],
     "area": 147570,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "957.824266028903",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2948.01488976887",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -712,13 +712,13 @@
       "TUR"
     ],
     "area": 110879,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "7498.83148441441",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "15731.6726237737",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -741,13 +741,13 @@
 
     ],
     "area": 765,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "24689.105627649",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "43850.9397176741",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -770,13 +770,13 @@
 
     ],
     "area": 13943,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "22312.0829733898",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "23264.2722108642",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -803,13 +803,13 @@
       "SRB"
     ],
     "area": 51209,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "4661.76424465729",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "9535.5397905006",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -832,13 +832,13 @@
 
     ],
     "area": 21,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -866,13 +866,13 @@
       "UKR"
     ],
     "area": 207600,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "7575.48211011402",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "17619.7696564982",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -898,13 +898,13 @@
       "MEX"
     ],
     "area": 22966,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "4893.92663452847",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "8486.89853967369",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -927,13 +927,13 @@
 
     ],
     "area": 54,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "84470.7552702244",
       "date": "2012",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "53056.4377612925",
       "date": "2012",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -964,13 +964,13 @@
       "PER"
     ],
     "area": 1098581,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "2867.63979143886",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "6131.06168856137",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1002,13 +1002,13 @@
       "VEN"
     ],
     "area": 8515767,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "11208.0827350494",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "15037.4574693446",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1031,13 +1031,13 @@
 
     ],
     "area": 430,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "14917.1495051568",
       "date": "2012",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "15573.9931836007",
       "date": "2012",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1060,13 +1060,13 @@
       "MYS"
     ],
     "area": 5765,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "38563.3145093197",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "71776.6480123078",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1091,13 +1091,13 @@
       "IND"
     ],
     "area": 38394,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "2362.58173657366",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "7404.73678431865",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1120,13 +1120,13 @@
 
     ],
     "area": 49,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1153,13 +1153,13 @@
       "ZWE"
     ],
     "area": 582000,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "7315.01928869892",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "15751.9022060328",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1188,13 +1188,13 @@
       "SDN"
     ],
     "area": 622984,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "333.19688062793",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "603.742959794015",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1218,13 +1218,13 @@
       "USA"
     ],
     "area": 9984670,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "51964.3302265425",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "42752.6574456961",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1247,13 +1247,13 @@
 
     ],
     "area": 14,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1285,13 +1285,13 @@
       "DEU"
     ],
     "area": 41284,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "84748.3653090717",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "56950.0243389194",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1317,13 +1317,13 @@
       "PER"
     ],
     "area": 756102,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "15732.3137736906",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "21942.1546463448",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1360,13 +1360,13 @@
       "VNM"
     ],
     "area": 9706961,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "6807.4308241222",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "11906.5073908244",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1393,13 +1393,13 @@
       "MLI"
     ],
     "area": 322463,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1528.93753910821",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "3210.45464438594",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1428,13 +1428,13 @@
       "NGA"
     ],
     "area": 475442,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1328.64020534474",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2830.12953902169",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1469,13 +1469,13 @@
       "ZMB"
     ],
     "area": 2344858,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "484.211471295874",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "809.217533443526",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1504,13 +1504,13 @@
       "GAB"
     ],
     "area": 342000,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3167.04532220203",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "5868.48055101527",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1534,13 +1534,13 @@
 
     ],
     "area": 236,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1567,13 +1567,13 @@
       "VEN"
     ],
     "area": 1141748,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "7831.21531317397",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "12423.9230431716",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1598,13 +1598,13 @@
 
     ],
     "area": 1862,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "814.957148838668",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1446.17149475964",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1627,13 +1627,13 @@
 
     ],
     "area": 4033,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3767.1153636954",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "6416.317160988",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1657,13 +1657,13 @@
       "PAN"
     ],
     "area": 51100,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "10184.6056715087",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "13875.8563536715",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1687,13 +1687,13 @@
 
     ],
     "area": 109884,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "6051.22200117364",
       "date": "2011",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "18796.1925231461",
       "date": "2011",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1718,13 +1718,13 @@
 
     ],
     "area": 444,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1747,13 +1747,13 @@
 
     ],
     "area": 135,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1776,13 +1776,13 @@
 
     ],
     "area": 264,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1806,13 +1806,13 @@
       "GBR"
     ],
     "area": 9251,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "25248.9810656095",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "28224.4574448048",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1839,13 +1839,13 @@
       "SVK"
     ],
     "area": 78865,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "19858.3434636115",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "29017.8364426335",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1876,13 +1876,13 @@
       "CHE"
     ],
     "area": 357114,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "46251.3818043198",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "43883.9100960419",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1908,13 +1908,13 @@
       "SOM"
     ],
     "area": 23200,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1668.336703229",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2998.74058570901",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1937,13 +1937,13 @@
 
     ],
     "area": 751,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "7175.62694147003",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "10343.1557312332",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1966,13 +1966,13 @@
       "DEU"
     ],
     "area": 43094,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "59818.6315281878",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "43782.165053723",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -1995,13 +1995,13 @@
       "HTI"
     ],
     "area": 48671,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "5878.99672094992",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "12186.388560558",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2030,13 +2030,13 @@
       "MAR"
     ],
     "area": 2381741,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "5360.70114645178",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "13320.2321901285",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2060,13 +2060,13 @@
       "PER"
     ],
     "area": 276841,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "6002.88545889096",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "10889.9891270309",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2091,13 +2091,13 @@
       "SDN"
     ],
     "area": 1002450,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3314.46292795644",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "11089.2111773151",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2124,13 +2124,13 @@
       "SDN"
     ],
     "area": 117600,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "543.821908261171",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1195.67675726337",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2159,13 +2159,13 @@
       "MAR"
     ],
     "area": 266000,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2196,13 +2196,13 @@
       "MAR"
     ],
     "area": 505992,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "29882.135792772",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "33093.9513715373",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2226,13 +2226,13 @@
       "RUS"
     ],
     "area": 45227,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "18877.3304932551",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "25823.3887479939",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2260,13 +2260,13 @@
       "SDN"
     ],
     "area": 1104300,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "505.045745754175",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1380.00026448913",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2292,13 +2292,13 @@
       "RUS"
     ],
     "area": 338424,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "49150.5773018023",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "39740.2145860155",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2323,13 +2323,13 @@
 
     ],
     "area": 18272,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "4375.40602174569",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "7750.43065903864",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2352,13 +2352,13 @@
 
     ],
     "area": 12173,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2388,13 +2388,13 @@
       "CHE"
     ],
     "area": 551695,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "42560.413729594",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "37532.3941095928",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2418,13 +2418,13 @@
 
     ],
     "area": 1393,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "44317.305892908",
       "date": "2009",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2447,13 +2447,13 @@
 
     ],
     "area": 702,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3054.06812233822",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "3394.64727547184",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2478,13 +2478,13 @@
       "GNQ"
     ],
     "area": 267668,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "11571.082919629",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "19264.3359398216",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2507,13 +2507,13 @@
       "IRL"
     ],
     "area": 242900,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "41781.1490232051",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "38259.1728772493",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2539,13 +2539,13 @@
       "TUR"
     ],
     "area": 69700,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3596.90831969687",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "7159.97068795563",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2570,13 +2570,13 @@
 
     ],
     "area": 78,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2601,13 +2601,13 @@
       "TGO"
     ],
     "area": 238533,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1858.24259798123",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "3992.09003884754",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2630,13 +2630,13 @@
       "ESP"
     ],
     "area": 6,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2664,13 +2664,13 @@
       "SLE"
     ],
     "area": 245857,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "523.119032227905",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1253.08489968023",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2693,13 +2693,13 @@
 
     ],
     "area": 1628,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2722,13 +2722,13 @@
       "SEN"
     ],
     "area": 10689,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "488.56559462467",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1661.42355399369",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2752,13 +2752,13 @@
       "SEN"
     ],
     "area": 36125,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "563.752771431122",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1407.02677224558",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2784,13 +2784,13 @@
       "GAB"
     ],
     "area": 28051,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "20581.6059358535",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "33768.289851408",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2816,13 +2816,13 @@
       "MKD"
     ],
     "area": 131990,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "21965.926768399",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "25666.6735448007",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2845,13 +2845,13 @@
 
     ],
     "area": 344,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "7890.51331904397",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "11645.340600932",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2874,13 +2874,13 @@
 
     ],
     "area": 2166086,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "22507.8887155204",
       "date": "2009",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2906,13 +2906,13 @@
       "MEX"
     ],
     "area": 108889,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3477.89006095894",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "7296.59257319642",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2936,13 +2936,13 @@
       "SUR"
     ],
     "area": 83534,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2967,13 +2967,13 @@
 
     ],
     "area": 549,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -2998,13 +2998,13 @@
       "VEN"
     ],
     "area": 214969,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3739.46999483479",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "6545.93223037864",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3028,13 +3028,13 @@
       "CHN"
     ],
     "area": 1104,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "38123.5221180602",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "53215.9373734741",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3057,13 +3057,13 @@
 
     ],
     "area": 412,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3088,13 +3088,13 @@
       "NIC"
     ],
     "area": 112492,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "2290.7805332533",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "4592.59339927457",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3121,13 +3121,13 @@
       "SVN"
     ],
     "area": 56594,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "13597.921445951",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "21350.5210754599",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3152,13 +3152,13 @@
       "DOM"
     ],
     "area": 27750,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "819.903914321224",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1703.02934940234",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3187,13 +3187,13 @@
       "UKR"
     ],
     "area": 93028,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "13485.4720683877",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "23334.3194270361",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3218,13 +3218,13 @@
       "PNG"
     ],
     "area": 1904569,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3475.25047362315",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "9561.12635183094",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3248,13 +3248,13 @@
 
     ],
     "area": 572,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "49817.4446933772",
       "date": "2007",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3286,13 +3286,13 @@
       "LKA"
     ],
     "area": 3287590,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1497.54986423319",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "5417.74894832947",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3315,13 +3315,13 @@
 
     ],
     "area": 60,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3345,13 +3345,13 @@
       "GBR"
     ],
     "area": 70273,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "50478.4103299986",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "45684.4484693966",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3380,13 +3380,13 @@
       "TKM"
     ],
     "area": 1648195,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "4763.30330925084",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "15590.1519646088",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3416,13 +3416,13 @@
       "TUR"
     ],
     "area": 438317,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "6862.49568142531",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "14951.0776794266",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3445,13 +3445,13 @@
 
     ],
     "area": 103000,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "47349.4825463877",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "41859.1857860484",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3478,13 +3478,13 @@
       "SYR"
     ],
     "area": 20770,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "36050.6979270706",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "32490.6207427851",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3514,13 +3514,13 @@
       "VAT"
     ],
     "area": 301336,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "35685.5990364728",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "35280.7377429301",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3544,13 +3544,13 @@
 
     ],
     "area": 10991,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "5290.48613415082",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "8892.76280395972",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3575,13 +3575,13 @@
 
     ],
     "area": 116,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3607,13 +3607,13 @@
       "SYR"
     ],
     "area": 89342,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "5213.39011578947",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "11782.7074590147",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3636,13 +3636,13 @@
 
     ],
     "area": 377930,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "38633.7080591795",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "36223.3406743794",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3670,13 +3670,13 @@
       "UZB"
     ],
     "area": 2724900,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "13611.5373619663",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "23214.3548260719",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3704,13 +3704,13 @@
       "UGA"
     ],
     "area": 580367,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1245.51204094041",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2794.98131908266",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3737,13 +3737,13 @@
       "UZB"
     ],
     "area": 199951,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1263.42808260643",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "3212.87626712181",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3768,13 +3768,13 @@
       "VNM"
     ],
     "area": 181035,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1006.8397443356",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "3041.07709021153",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3798,13 +3798,13 @@
 
     ],
     "area": 811,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1650.7072236263",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1855.82888361975",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3827,13 +3827,13 @@
 
     ],
     "area": 261,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "14132.8018797709",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "21395.6932205761",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3856,13 +3856,13 @@
       "PRK"
     ],
     "area": 100210,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "25976.9528250314",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "33062.4434026673",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3889,13 +3889,13 @@
       "SRB"
     ],
     "area": 10908,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3877.17063627936",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "8883.52754793466",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3919,13 +3919,13 @@
       "SAU"
     ],
     "area": 17818,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "52197.3413356747",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "83839.7309247584",
       "date": "2012",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3952,13 +3952,13 @@
       "VNM"
     ],
     "area": 236800,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1660.70603054407",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "4822.02207368924",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -3983,13 +3983,13 @@
       "SYR"
     ],
     "area": 10452,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "9928.03809840595",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "17173.8422362362",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4014,13 +4014,13 @@
       "SLE"
     ],
     "area": 111369,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "454.337483405654",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "877.995480056484",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4048,13 +4048,13 @@
       "TUN"
     ],
     "area": 1759540,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "11964.7306962965",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "21046.3473378789",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4077,13 +4077,13 @@
 
     ],
     "area": 616,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "7328.37069182551",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "10487.9682765538",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4107,13 +4107,13 @@
       "CHE"
     ],
     "area": 160,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "134617.379609051",
       "date": "2009",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4137,13 +4137,13 @@
       "IND"
     ],
     "area": 65610,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3279.89138972612",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "9738.11917417447",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4168,13 +4168,13 @@
       "ZAF"
     ],
     "area": 30355,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1125.58642735989",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2576.25549405545",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4200,13 +4200,13 @@
       "RUS"
     ],
     "area": 65300,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "15529.6816107657",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "25453.5447491874",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4233,13 +4233,13 @@
       "DEU"
     ],
     "area": 2586,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "110664.840296737",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "91047.5888834933",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4265,13 +4265,13 @@
       "RUS"
     ],
     "area": 64559,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "15381.0835320788",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "22568.5023237427",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4295,13 +4295,13 @@
       "CHN"
     ],
     "area": 30,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "91376.0225367419",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "142599.240319212",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4324,13 +4324,13 @@
       "SXM"
     ],
     "area": 53,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4356,13 +4356,13 @@
       "ESP"
     ],
     "area": 446550,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3092.60654509577",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "7198.16371916788",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4385,13 +4385,13 @@
       "FRA"
     ],
     "area": 2.02,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "163025.859027458",
       "date": "2011",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4415,13 +4415,13 @@
       "UKR"
     ],
     "area": 33846,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "2239.55912744088",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "4670.91976235625",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4445,13 +4445,13 @@
 
     ],
     "area": 587041,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "462.968942802867",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1413.99075673979",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4474,13 +4474,13 @@
 
     ],
     "area": 300,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "6665.76769481571",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "11656.7428360248",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4505,13 +4505,13 @@
       "USA"
     ],
     "area": 1964375,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "10307.283036092",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "16369.6856266379",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4535,13 +4535,13 @@
 
     ],
     "area": 181,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3627.21054831478",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "3900.99731010833",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4568,13 +4568,13 @@
       "SRB"
     ],
     "area": 25713,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "4838.46210462289",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "11611.97490519",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4603,13 +4603,13 @@
       "SEN"
     ],
     "area": 1240192,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "715.133812989422",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1641.83452128449",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4633,13 +4633,13 @@
 
     ],
     "area": 316,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "22774.9603787941",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "29126.7811266912",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4666,13 +4666,13 @@
       "THA"
     ],
     "area": 676578,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4699,13 +4699,13 @@
       "SRB"
     ],
     "area": 13812,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "7106.86177444835",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "14131.6050000068",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4729,13 +4729,13 @@
       "RUS"
     ],
     "area": 1564110,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "4056.39783876598",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "9434.9627693653",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4760,13 +4760,13 @@
 
     ],
     "area": 464,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4794,13 +4794,13 @@
       "ZWE"
     ],
     "area": 801590,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "605.034174437901",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1105.07349763736",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4826,13 +4826,13 @@
       "ESH"
     ],
     "area": 1030700,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1068.97459670874",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "3042.83849410548",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4855,13 +4855,13 @@
 
     ],
     "area": 102,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4884,13 +4884,13 @@
 
     ],
     "area": 1128,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4915,13 +4915,13 @@
 
     ],
     "area": 2040,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "9477.79158698406",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "17714.017756009",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4947,13 +4947,13 @@
       "ZMB"
     ],
     "area": 118484,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "226.45510265016",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "780.003107565482",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -4979,13 +4979,13 @@
       "THA"
     ],
     "area": 330803,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "10538.0578871612",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "23338.0140244332",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5008,13 +5008,13 @@
 
     ],
     "area": 374,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5049,13 +5049,13 @@
       "ZMB"
     ],
     "area": 825615,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "5693.12915367405",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "9583.18475656442",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5078,13 +5078,13 @@
 
     ],
     "area": 18575,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5113,13 +5113,13 @@
       "NGA"
     ],
     "area": 1267000,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "415.417321798037",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "916.199691229844",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5143,13 +5143,13 @@
 
     ],
     "area": 36,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5175,13 +5175,13 @@
       "NER"
     ],
     "area": 923768,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3005.51379633974",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "5602.40879552442",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5205,13 +5205,13 @@
       "HND"
     ],
     "area": 130373,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1851.10585221271",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "4642.69625070461",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5235,13 +5235,13 @@
 
     ],
     "area": 260,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5265,13 +5265,13 @@
       "DEU"
     ],
     "area": 41850,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "50792.5142584086",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "46162.0916473842",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5298,13 +5298,13 @@
       "RUS"
     ],
     "area": 323802,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "100898.361496832",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "64405.7122213084",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5328,13 +5328,13 @@
       "IND"
     ],
     "area": 147181,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "694.10479433434",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2244.79962842638",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5358,13 +5358,13 @@
 
     ],
     "area": 21,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5389,13 +5389,13 @@
 
     ],
     "area": 270467,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "41824.3228389982",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "34731.5690656862",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5420,13 +5420,13 @@
       "YEM"
     ],
     "area": 309500,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "21929.0145745223",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "45333.7502649033",
       "date": "2012",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5453,13 +5453,13 @@
       "IRN"
     ],
     "area": 881912,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1275.30181716068",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "4601.68894303447",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5484,13 +5484,13 @@
       "CRI"
     ],
     "area": 75417,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "11036.8073868386",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "19416.2320170688",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5513,13 +5513,13 @@
 
     ],
     "area": 47,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5548,13 +5548,13 @@
       "ECU"
     ],
     "area": 1285216,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "6661.59111226107",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "11774.1883417434",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5578,13 +5578,13 @@
 
     ],
     "area": 342353,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "2765.08458658032",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "6535.87586381471",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5608,13 +5608,13 @@
 
     ],
     "area": 459,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "11810.087006406",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "15095.9881392384",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5639,13 +5639,13 @@
       "IDN"
     ],
     "area": 462840,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "2105.26987638661",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2642.90578071692",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5674,13 +5674,13 @@
       "UKR"
     ],
     "area": 312679,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "13653.7216254414",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "23689.9023666708",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5704,13 +5704,13 @@
 
     ],
     "area": 8870,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "28528.9970971645",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "34752.376062686",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5735,13 +5735,13 @@
       "RUS"
     ],
     "area": 120538,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5764,13 +5764,13 @@
       "ESP"
     ],
     "area": 92090,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "21738.291595169",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "27804.1561094391",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5796,13 +5796,13 @@
       "BRA"
     ],
     "area": 406752,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "4264.65064186682",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "8092.67275665026",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5827,13 +5827,13 @@
       "JOR"
     ],
     "area": 6220,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "2782.90502643023",
       "date": "2012",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "4921.39285519528",
       "date": "2012",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5856,13 +5856,13 @@
 
     ],
     "area": 4167,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5885,13 +5885,13 @@
       "SAU"
     ],
     "area": 11586,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "93714.0633825214",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "136727.253610167",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5914,13 +5914,13 @@
 
     ],
     "area": 2511,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5947,13 +5947,13 @@
       "UKR"
     ],
     "area": 238391,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "9490.75443287045",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "18974.4057849472",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -5989,13 +5989,13 @@
       "UKR"
     ],
     "area": 17098242,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "14611.700777684",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "25247.9400353489",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6023,13 +6023,13 @@
       "UGA"
     ],
     "area": 26338,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "638.66579543853",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1473.63801166274",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6058,13 +6058,13 @@
       "YEM"
     ],
     "area": 2149690,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "25961.8084232923",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "53644.1269250098",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6094,13 +6094,13 @@
       "SSD"
     ],
     "area": 1886068,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1753.38091039699",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "3372.97200690061",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6127,13 +6127,13 @@
       "MRT"
     ],
     "area": 196722,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1046.58642640507",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2241.99652516017",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6159,13 +6159,13 @@
 
     ],
     "area": 710,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "55182.4827916113",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "78763.3849443771",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6188,13 +6188,13 @@
 
     ],
     "area": 3903,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6217,13 +6217,13 @@
 
     ],
     "area": -1,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6246,13 +6246,13 @@
 
     ],
     "area": 28896,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1953.55731759549",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2068.96106224769",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6276,13 +6276,13 @@
       "LBR"
     ],
     "area": 71740,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "678.960904459799",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1544.18323961817",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6307,13 +6307,13 @@
       "HND"
     ],
     "area": 21041,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3826.08248557595",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "7764.14274460714",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6336,13 +6336,13 @@
       "ITA"
     ],
     "area": 61,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "62188.9285937468",
       "date": "2008",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6368,13 +6368,13 @@
       "KEN"
     ],
     "area": 637657,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6397,13 +6397,13 @@
 
     ],
     "area": 242,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6433,13 +6433,13 @@
       "ROU"
     ],
     "area": 88361,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "6353.82638279332",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "13019.8207194707",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6467,13 +6467,13 @@
       "UGA"
     ],
     "area": 619745,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1044.99516223827",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2029.7334400689",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6496,13 +6496,13 @@
 
     ],
     "area": 964,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1609.82333937573",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2971.06707976578",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6527,13 +6527,13 @@
       "GUY"
     ],
     "area": 163820,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "9825.74392108657",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "16071.3846314326",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6560,13 +6560,13 @@
       "UKR"
     ],
     "area": 49037,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "18049.183464063",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "26496.6154491917",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6592,13 +6592,13 @@
       "HUN"
     ],
     "area": 20273,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "23295.3390867714",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "28858.6813467723",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6622,13 +6622,13 @@
       "NOR"
     ],
     "area": 450295,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "60380.9480129258",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "44658.2317867812",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6653,13 +6653,13 @@
       "ZAF"
     ],
     "area": 17364,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3034.2231842349",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "6685.33811734131",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6684,13 +6684,13 @@
       "MAF"
     ],
     "area": 34,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6715,13 +6715,13 @@
 
     ],
     "area": 452,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "16185.8994805264",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "24587.4855947311",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6748,13 +6748,13 @@
       "TUR"
     ],
     "area": 185180,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "2065.53963216625",
       "date": "2007",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6777,13 +6777,13 @@
 
     ],
     "area": 948,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6812,13 +6812,13 @@
       "SSD"
     ],
     "area": 1284000,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1053.66250096527",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2088.5918355193",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6843,13 +6843,13 @@
       "GHA"
     ],
     "area": 56785,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "636.436450003819",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1390.51971095318",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6875,13 +6875,13 @@
       "MYS"
     ],
     "area": 513120,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "5778.97721600158",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "14393.5307035565",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6908,13 +6908,13 @@
       "UZB"
     ],
     "area": 143100,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1036.58327586973",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2512.24756635",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6939,13 +6939,13 @@
 
     ],
     "area": 12,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -6972,13 +6972,13 @@
       "UZB"
     ],
     "area": 488100,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "7986.69888371428",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "14004.160056658",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7002,13 +7002,13 @@
       "IDN"
     ],
     "area": 14874,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1105.34936873236",
       "date": "2012",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2076.43707854128",
       "date": "2012",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7032,13 +7032,13 @@
 
     ],
     "area": 747,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "4426.94458088684",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "5304.20668898596",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7061,13 +7061,13 @@
 
     ],
     "area": 5130,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "18372.9043244137",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "30446.0075388524",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7091,13 +7091,13 @@
       "LBY"
     ],
     "area": 163610,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "4316.68569496563",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "11124.4960087614",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7127,13 +7127,13 @@
       "SYR"
     ],
     "area": 783562,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "10971.6563060949",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "18782.8457521051",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7157,13 +7157,13 @@
 
     ],
     "area": 26,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3880.35232167543",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "3645.1579296558",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7186,13 +7186,13 @@
 
     ],
     "area": 36193,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7223,13 +7223,13 @@
       "ZMB"
     ],
     "area": 945087,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "912.700309666541",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2443.07223107863",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7257,13 +7257,13 @@
       "TZA"
     ],
     "area": 241550,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "657.370663533795",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1674.28506898198",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7293,13 +7293,13 @@
       "SVK"
     ],
     "area": 603500,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3900.46537573638",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "8789.98200051008",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7322,13 +7322,13 @@
 
     ],
     "area": 34.2,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7353,13 +7353,13 @@
       "BRA"
     ],
     "area": 181034,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "16350.72817048",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "19594.3695607622",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7385,13 +7385,13 @@
       "MEX"
     ],
     "area": 9372610,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "53041.9814055623",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "53041.9814055623",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7419,13 +7419,13 @@
       "TKM"
     ],
     "area": 447400,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1877.9645118434",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "5167.9271637961",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7449,13 +7449,13 @@
       "ITA"
     ],
     "area": 0.44,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7478,13 +7478,13 @@
 
     ],
     "area": 389,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "6485.67914554035",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "10490.6041669164",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7509,13 +7509,13 @@
       "GUY"
     ],
     "area": 916445,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "14414.7535260923",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "18198.3700172414",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7538,13 +7538,13 @@
 
     ],
     "area": 151,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7567,13 +7567,13 @@
 
     ],
     "area": 347,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7598,13 +7598,13 @@
       "LAO"
     ],
     "area": 331212,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1910.51281756213",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "5294.43986933333",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7629,13 +7629,13 @@
 
     ],
     "area": 12189,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "3276.73425751835",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "2990.91682998287",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7658,13 +7658,13 @@
 
     ],
     "area": 142,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": null,
       "date": null,
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7688,13 +7688,13 @@
 
     ],
     "area": 2842,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "4212.36346519193",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "5768.98576875814",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7718,13 +7718,13 @@
       "SAU"
     ],
     "area": 527968,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1473.09956375508",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "3959.29188263281",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7762,13 +7762,13 @@
       "ZWE"
     ],
     "area": 1221037,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "6886.29040549387",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "12866.939794068",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7798,13 +7798,13 @@
       "ZWE"
     ],
     "area": 752612,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "1844.79913932394",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "3925.46238739217",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
@@ -7844,13 +7844,13 @@
       "ZMB"
     ],
     "area": 390757,
-    "NY.GDP.PCAP.CD": {
+    "NY-GDP-PCAP-CD": {
       "value": "953.380607065278",
       "date": "2013",
       "statistic": "GDP per capita (current US$)",
       "origin": "World Development Indicators"
     },
-    "NY.GDP.PCAP.PP.CD": {
+    "NY-GDP-PCAP-PP-CD": {
       "value": "1832.08324432316",
       "date": "2013",
       "statistic": "GDP per capita, PPP (current international $)",
