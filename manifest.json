@@ -22,6 +22,7 @@
       "js"      : [
         "js/jquery.min.js",
         "js/jquery.ba-replacetext.min.js",
+        "js/mustache.min.js",
         "js/inject.js"
       ],
       "css" : ["css/wv.css"],
