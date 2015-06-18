@@ -9,27 +9,42 @@
 .wv-box {
     height: 300;
     width: 300;
-    background-color: salmon;
-    border: 1pt solid black;
+/*    background-color: salmon; */
     margin: 0px;
     padding: 0px;
+
     font-family: sans-serif;
 }
 
 .wv-header {
     top: 0px;
     left: 0px;
-    height: 64px;
+    height: 80px;
     width: 300px;
-    direction: rtl;
     text-indent: 30px;
-    text-align: right;
-    font-size: 3em;
     font-weight: bold;
 
 /* For dev purposes */
-    background-color: steelblue;
+    color: #333;
+    background-color: lightsteelblue;
 
+}
+
+.wv-subheader{
+    font-size: 11pt;
+}
+
+.wv-title {
+    position: absolute;
+    top: 5px;
+    right: 10px;
+    font-size: 2.8em;
+}
+
+.wv-flag {
+    position: absolute;
+    top: 0px;
+    left: 10px;
 }
 
 .wv-tabbox {
@@ -52,20 +67,41 @@
     background-color: inherit;
     overflow-x: hidden;
     overflow-y: auto;
+    font-size: 9pt;
 }
 
 .wv-tab.top .content {
     z-index: inherit;
 }
 
-.wv-tab .label {
+.wv-tab .wv-tab-label {
     z-index: 30;
     position: relative;
-    top: -17px;
+    top: -15px;
     background-color: inherit;
     display: inline-block;
     padding-left: 5px;
-    padding-right: 30px;
+    padding-right: 15px;
     cursor: pointer;
     border-top-right-radius: 3px;
+    font-size: 8pt;
+    font-weight: bold;
+    color: steelblue;
+}
+
+.wv-table {
+    width: 280px;;
+    font-size: inherit;
+    margin: 5px;
+/*    border: 1pt solid black; */
+}
+
+.wv-table td:first-child {
+    font-weight: bold;
+}
+
+.wv-box td {
+    width: 70px;
+    vertical-align: top;
+   /* border: 1pt solid black;*/
 }

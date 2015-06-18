@@ -1,25 +1,44 @@
-function appendTemplate(target, data) {
+function appendBox(target, data) {
     var template_url = chrome.extension.getURL('assets/templates/wv-box.html');
     $.get(template_url, function(template) {
+
+        // Inject context-specific info into data object
+        data['url'] = chrome.extension.getURL('assets/img/flags');
+
         var output = $.parseHTML(Mustache.render(template, data));
 
         // Add tab behaviour
-        $(output).find('.label').on('click', function(e){
+        $(output).find('.wv-tab-label').on('click', function(e){
             $('.top').removeClass("top");
             $(this).parent().addClass("top");
         });
 
-        // Place box at the same offset as the clicked widget
-        // TODO: make this intelligently position itself
-        // dependent on the viewport
+        // Append to document so we can position it properly
+        $(output).css({"display" : "none"}).appendTo(document.body);
+
+        // Intelligently place the box so it's wholly visible in the viewport
         var offset = $(target).offset();
-        $(document.body).append(output);
+
+        var target_width = $(target).width();
+        var target_height = $(target).height();
+        var viewport_width = $(window).width();
+        var viewport_height = $(window).height();
+        var box_width = $(output).width();
+        var box_height = $(output).height();
+
+        var box_offset_left = box_width + offset.left < viewport_width ?
+            offset.left + target_width : offset.left - box_width;
+
+        var box_offset_top = box_height + offset.top < viewport_height ?
+            offset.top + target_height : offset.top - box_width;
+
+        // Position and fadeIn the box
         $(".outermost").css({
             "position"  : "absolute",
-            "top"       : offset.top + "px",
-            "left"      : offset.left + "px",
+            "top"       : box_offset_top + "px",
+            "left"      : box_offset_left + "px",
             "display"   : "none"
-        }).fadeIn('fast');
+        }).attr("data-iso", $(target).attr("data-iso")).fadeIn('fast');
     });
 }
 
@@ -55,21 +74,36 @@ function setWidgets(terms) {
         e.stopPropagation();
 
         // Close other wv-boxes
-        $(".wv-box").fadeOut('fast', function(){
+        // (should only ever be one)
+        var old_box = $(".wv-box");
+        var old_box_identity = old_box.first().attr("data-iso");
+
+        old_box.fadeOut('fast', function(){
             $(this).remove();
         });
 
         var iso = $(this).attr('data-iso');
         var target = this;
+
+        // If the old box is of the same iso2-type as this widget,
+        // don't create a new one.
+        // (We could make this more consistent by giving every widget a
+        // unique ID and comparing those I'm not sure this will become a
+        // problem, so maybe we'll implement this at some point in the future)
+        if(old_box_identity == iso) {
+            return;
+        }
+
         chrome.runtime.sendMessage({
             "action": "getEntity",
             "entity": iso
         }, function(response) {
-            appendTemplate(target, response.data);
+            appendBox(target, response.data);
         });
     });
 }
 
+// Clear boxes on click-out
 $(document).on('mouseup', function (e)
 {
     var container = $(".outermost");
@@ -80,6 +114,10 @@ $(document).on('mouseup', function (e)
     }
 });
 
-chrome.runtime.sendMessage({
-    "action" : "getReplacementTerms"
-}, function(response) { setWidgets(response.data); });
+function getTerms() {
+    chrome.runtime.sendMessage({
+        "action" : "getReplacementTerms"
+    }, function(response) { setWidgets(response.data); });
+}
+
+getTerms();

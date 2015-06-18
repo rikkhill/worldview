@@ -1,30 +1,95 @@
 <div class='wv-box outermost'>
     <div class='wv-header'>
-        {{ name }}
+        <img class='wv-flag' src="{{url}}/{{iso2}}.png" alt="Flag of {{name}}" />
+        <div class='wv-title'>{{ name }}</div>
     </div>
     <div class='wv-tabbox'>
         <div class='wv-tab top'>
-            <div class='label'>Geo</div>
-            <div class='content'>The capital is {{capital}}</div>
+            <div class='wv-tab-label'>Geog.</div>
+            <div class='content'>
+                <table class='wv-table'>
+                    <tr>
+                        <td colspan='2'>
+                            <div class='wv-subheader'>
+                                {{official}}
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                    </tr>
+                    <tr>
+                        <td>
+                            Capital:
+                        </td>
+                        <td>
+                            {{capital}}
+                        </td>
+                    </tr>                   <tr>
+                        <td>
+                            Population:
+                        </td>
+                        <td>
+                            {{SP-POP-TOTL.value}} ({{SP-POP-TOTL.date}})
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Languages:
+                        </td>
+                        <td>
+                            {{#languages}}
+                                {{.}}<br />
+                            {{/languages}}
+                        </td>
+                    </tr>
+                </table>
+            </div>
         </div>
         <div class='wv-tab'>
-            <div class='label'>Econ</div>
+            <div class='wv-tab-label'>Econ.</div>
             <div class='content'>Currency is {{currency}}</div>
         </div>
         <div class='wv-tab'>
-            <div class='label'>Trade</div>
-            <div class='content'>Borders with the following countries:
+            <div class='wv-tab-label'>Pop.</div>
+            <div class='content'>Borders:
                 <ul>
                 {{#borders}}
                     <li> {{.}}</li>
+                {{/borders}}
+                {{^borders}}
+                    <li>Island Nation</li>
                 {{/borders}}
                 </ul>
             </div>
         </div>
         <div class='wv-tab'>
-            <div class='label'>Dev</div>
+            <div class='wv-tab-label'>Dev.</div>
             <div class='content'>
-                GDP Per Capita is ${{NY-GDP-PCAP-CD.value}}
+                <table class='wv-table'>
+                    <tr>
+                        <td colspan='3'>
+                            <div class='wv-subheader'>
+                                Development Indicators
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td rowspan=''>
+                            Adult Literacy:
+                        </td>
+                        <td colspan="2">Total: {{SE-ADT-LITR-ZS.value}}% ({{SE-ADT-LITR-ZS.date}})
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td>
+                            Male: {{SE-ADT-LITR-MA-ZS.value}}%
+                        </td>
+                        <td>
+                            Female: {{SE-ADT-LITR-FE-ZS.value}}%
+                        </td>
+                    </tr>
+                </table>
             </div>
         </div>
     </div>
