@@ -49,6 +49,8 @@ function setWidgets(terms) {
     var image = chrome.extension.getURL('assets/img/globe.png');
 
     // Only add widgets to text in these tags
+    // This ultimately needs to be more sophisticated.
+    // The widget should never be placed in <code> or <pre> tags, for example
     var tags = [
         "p",
         "div",
@@ -73,7 +75,8 @@ function setWidgets(terms) {
     // prevent local CSS overriding it
     $('.wv-widget').css({
         "display"           : "inline",
-        "vertical-align"    : "baseline"
+        "vertical-align"    : "baseline",
+        "margin-bottom"     : "0em"
     // When widget is clicked, get data and expand
     }).on('click', function(e) {
 

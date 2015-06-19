@@ -2,6 +2,7 @@
     cursor: pointer;
     display: inline;
     vertical-align: baseline;
+    margin-bottom: 0em;
 }
 
 .wv-markup {
@@ -41,6 +42,7 @@
     top: 5px;
     right: 10px;
     font-size: 2.8em;
+    line-height: 1.2em;
 }
 
 .wv-flag {
