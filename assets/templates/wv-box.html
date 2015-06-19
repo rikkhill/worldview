@@ -1,20 +1,18 @@
 <div class='wv-box outermost'>
     <div class='wv-header'>
-        <img class='wv-flag' src="{{url}}/{{iso2}}.png" alt="Flag of {{name}}" />
-        <div class='wv-title'>{{ name }}</div>
+        <img class='wv-flag' src="{{context.url}}/{{iso2}}.png" alt="Flag of {{name}}" />
+        <div class='wv-title'>
+            {{ name }}
+            <div class='wv-subtitle'>
+                {{ official }}
+            </div>
+        </div>
     </div>
     <div class='wv-tabbox'>
         <div class='wv-tab top'>
             <div class='wv-tab-label'>Geog.</div>
             <div class='content'>
                 <table class='wv-table'>
-                    <tr>
-                        <td colspan='2'>
-                            <div class='wv-subheader'>
-                                {{official}}
-                            </div>
-                        </td>
-                    </tr>
                     <tr>
                     </tr>
                     <tr>
@@ -43,6 +41,7 @@
                         </td>
                     </tr>
                 </table>
+                {{#helper.title_size}}{{name}}{{/helper.title_size}}
             </div>
         </div>
         <div class='wv-tab'>

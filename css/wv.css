@@ -1,8 +1,9 @@
 .wv-widget {
     cursor: pointer;
-    display: inline;
-    vertical-align: baseline;
-    margin-bottom: 0em;
+    display: inline !important;
+    vertical-align: baseline !important;
+    margin-bottom: 0em !important;
+    border: 0 !important;
 }
 
 .wv-markup {
@@ -26,23 +27,26 @@
     width: 300px;
     text-indent: 30px;
     font-weight: bold;
-
+    text-align: right;
 /* For dev purposes */
     color: #333;
     background-color: lightsteelblue;
 
 }
 
-.wv-subheader{
-    font-size: 11pt;
+.wv-subtitle{
+    font-size: 0.5em;
+    text-decoration: none;
+    white-space: normal;
 }
 
 .wv-title {
     position: absolute;
     top: 5px;
     right: 10px;
-    font-size: 2.8em;
-    line-height: 1.2em;
+    max-width: 230px;
+    font-size: 1.7em;
+    white-space: nowrap;
 }
 
 .wv-flag {

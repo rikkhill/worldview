@@ -1,9 +1,45 @@
+/*
+ * js/inject.js
+ * Content script for WorldView Chrome Extension
+ *
+ */
+
 function appendBox(target, data) {
     var template_url = chrome.extension.getURL('assets/templates/wv-box.html');
     $.get(template_url, function(template) {
 
         // Inject context-specific info into data object
-        data['url'] = chrome.extension.getURL('assets/img/flags');
+        var context = {};
+        context['url'] = chrome.extension.getURL('assets/img/flags');
+        data['context'] = context;
+
+        // Helper functions (probably going to be rationalised in future)
+        var helper = {
+            "title_size" : function() {
+                // Return a text size suitable for the length of the string
+                return function(title, render) {
+                    // Get rendering width
+                    var width;
+                    $("<div>" + render(title) + "</div>").css({
+                        "position"      : "absolute",
+                        "visibility"    : "hidden",
+                        "font-size"     : '2.8em',
+                        "height"        : "auto",
+                        "width"         : "auto",
+                        "white-space"   : "nowrap"
+                    }).appendTo(document.body).each(function() {
+                        width = $(this).width();
+                    }).remove();
+
+                    var ratio = ((100/width) * 2.8).toFixed(2);
+                    ratio = ratio > 2.8 ? 2.8 : ratio;
+console.log("Render width and ratio: ", width, ratio);
+                    return String(ratio) + "em";
+                }
+            }
+        };
+
+        data['helper'] = helper;
 
         var output = $.parseHTML(Mustache.render(template, data));
 
@@ -63,6 +99,7 @@ function setWidgets(terms) {
         "li"
     ];
 
+    // Add the widgets
     terms.forEach(function(c) {
         var re = new RegExp("(?:^|\\b)(" + c[0] + ")([\\b\\W]|$)", 'gi');
         $(tags.join(", ") + ":not(.wv-ignore)").replaceText(re, "<span class='wv-markup'><img src='" + image + "' class='wv-widget' data-iso='" + c[1] + "' />" + '$1$2' + "</span>");
@@ -70,15 +107,8 @@ function setWidgets(terms) {
 
     // TODO: Mutation observer to add widgets to new countries added
 
-
-    // Some CSS attributes need to be applied to the element directly to
-    // prevent local CSS overriding it
-    $('.wv-widget').css({
-        "display"           : "inline",
-        "vertical-align"    : "baseline",
-        "margin-bottom"     : "0em"
-    // When widget is clicked, get data and expand
-    }).on('click', function(e) {
+    // Add on-click behaviour to widget
+    $('.wv-widget').on('click', function(e) {
 
         // If it has some other event or action tied to it, don't do that
         e.preventDefault();
@@ -105,6 +135,8 @@ function setWidgets(terms) {
             return;
         }
 
+        // Fetch the data from the background script and append a new
+        // box once we have it.
         chrome.runtime.sendMessage({
             "action": "getEntity",
             "entity": iso
