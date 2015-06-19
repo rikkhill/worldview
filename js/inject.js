@@ -17,19 +17,21 @@ function appendBox(target, data) {
         $(output).css({"display" : "none"}).appendTo(document.body);
 
         // Intelligently place the box so it's wholly visible in the viewport
+        // (Surprisingly tricky. Maybe there's a plugin for this?)
         var offset = $(target).offset();
+        var port_offset = target.getBoundingClientRect();
 
         var target_width = $(target).width();
         var target_height = $(target).height();
-        var viewport_width = $(window).width();
-        var viewport_height = $(window).height();
+        var port_width = $(window).width();
+        var port_height = $(window).height();
         var box_width = $(output).width();
         var box_height = $(output).height();
 
-        var box_offset_left = box_width + offset.left < viewport_width ?
+        var box_offset_left = box_width + port_offset.left < port_width ?
             offset.left + target_width : offset.left - box_width;
 
-        var box_offset_top = box_height + offset.top < viewport_height ?
+        var box_offset_top = box_height + port_offset.top < port_height ?
             offset.top + target_height : offset.top - box_width;
 
         // Position and fadeIn the box
@@ -66,8 +68,14 @@ function setWidgets(terms) {
 
     // TODO: Mutation observer to add widgets to new countries added
 
+
+    // Some CSS attributes need to be applied to the element directly to
+    // prevent local CSS overriding it
+    $('.wv-widget').css({
+        "display"           : "inline",
+        "vertical-align"    : "baseline"
     // When widget is clicked, get data and expand
-    $('.wv-widget').on('click', function(e) {
+    }).on('click', function(e) {
 
         // If it has some other event or action tied to it, don't do that
         e.preventDefault();

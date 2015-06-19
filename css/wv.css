@@ -1,5 +1,7 @@
 .wv-widget {
     cursor: pointer;
+    display: inline;
+    vertical-align: baseline;
 }
 
 .wv-markup {
@@ -52,7 +54,7 @@
     position: relative;
 }
 
-.wv-tab{
+.wv-tab {
     display: inline-block;
     background-color: lightgreen;
 }
