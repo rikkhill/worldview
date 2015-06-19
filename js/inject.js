@@ -44,7 +44,7 @@ console.log("Render width and ratio: ", width, ratio);
         var output = $.parseHTML(Mustache.render(template, data));
 
         // Add tab behaviour
-        $(output).find('.wv-tab-label').on('click', function(e){
+        $(output).find('.wv-tab-label').on('click', function(e) {
             $('.top').removeClass("top");
             $(this).parent().addClass("top");
         });
