@@ -4,6 +4,14 @@
  *
  */
 
+//TODO: create a suite of helper functions for rendering by Mustache.js
+
+//TODO: offload heavy-lifting of template to the view
+
+//TODO: separate worldview-specific logic from deepview "platform"
+
+//TODO: modularise this to the point where unit-testing is useful
+
 function appendBox(target, data) {
     var template_url = chrome.extension.getURL('assets/templates/wv-box.html');
     $.get(template_url, function(template) {
@@ -12,34 +20,6 @@ function appendBox(target, data) {
         var context = {};
         context['url'] = chrome.extension.getURL('assets/img/flags');
         data['context'] = context;
-
-        // Helper functions (probably going to be rationalised in future)
-        var helper = {
-            "title_size" : function() {
-                // Return a text size suitable for the length of the string
-                return function(title, render) {
-                    // Get rendering width
-                    var width;
-                    $("<div>" + render(title) + "</div>").css({
-                        "position"      : "absolute",
-                        "visibility"    : "hidden",
-                        "font-size"     : '2.8em',
-                        "height"        : "auto",
-                        "width"         : "auto",
-                        "white-space"   : "nowrap"
-                    }).appendTo(document.body).each(function() {
-                        width = $(this).width();
-                    }).remove();
-
-                    var ratio = ((100/width) * 2.8).toFixed(2);
-                    ratio = ratio > 2.8 ? 2.8 : ratio;
-console.log("Render width and ratio: ", width, ratio);
-                    return String(ratio) + "em";
-                }
-            }
-        };
-
-        data['helper'] = helper;
 
         var output = $.parseHTML(Mustache.render(template, data));
 
@@ -50,7 +30,7 @@ console.log("Render width and ratio: ", width, ratio);
         });
 
         // Append to document so we can position it properly
-        $(output).css({"display" : "none"}).appendTo(document.body);
+        var box = $(output).css({"display" : "none"}).appendTo(document.body);
 
         // Intelligently place the box so it's wholly visible in the viewport
         // (Surprisingly tricky. Maybe there's a plugin for this?)
@@ -71,7 +51,7 @@ console.log("Render width and ratio: ", width, ratio);
             offset.top + target_height : offset.top - box_width;
 
         // Position and fadeIn the box
-        $(".outermost").css({
+        box.css({
             "position"  : "absolute",
             "top"       : box_offset_top + "px",
             "left"      : box_offset_left + "px",
@@ -99,10 +79,15 @@ function setWidgets(terms) {
         "li"
     ];
 
+    // Sort terms by length so shorter subset terms don't "break" longer ones
+    var terms = terms.sort(function(a, b) {
+        return b[0].length - a[0].length;
+    });
+
     // Add the widgets
     terms.forEach(function(c) {
         var re = new RegExp("(?:^|\\b)(" + c[0] + ")([\\b\\W]|$)", 'gi');
-        $(tags.join(", ") + ":not(.wv-ignore)").replaceText(re, "<span class='wv-markup'><img src='" + image + "' class='wv-widget' data-iso='" + c[1] + "' />" + '$1$2' + "</span>");
+        $(tags.join(", ")).not(".wv-ignore").replaceText(re, "<span class='wv-markup wv-ignore'><img src='" + image + "' class='wv-widget' data-iso='" + c[1] + "' />" + '$1$2' + "</span>");
     });
 
     // TODO: Mutation observer to add widgets to new countries added

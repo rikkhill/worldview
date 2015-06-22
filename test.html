@@ -1,12 +1,18 @@
 <html>
     <head></head>
     <body>
-        <p>This is some text.</p>
+        <p>One of these days I'll write some unit tests to do this properly.</p>
+        <h2> Preamble</h2>
         <p>The text discusses various countries, such as France, Aruba, Germany, Jersey, Faroe Island and various other strange places. It also discusses some non-country entities that are nonetheless proper nouns, such as David Hasselhoff, Nevada, and the Phantom Time Hypothesis. France, Germany, and David Hasselhoff are mentioned twice for testing purposes.</p>
         <p>Here is another mention of France, Aruba and Nevada. Also Spain.</p>
+        <h2> Edge cases</h2>
         <p>Here are some edge cases that should be flagged up: Germany's fiscal policy. Spain. portugal. OMAN. <b>Jordan</b>. <b>All of Australia is underwater!</b> <a href='#'>The ambassador to Mexico</a>. Not in <i>Spain</i>, they don't. But in <em>Guatemala</em> they do. And in <strong>Belize</strong> they can't get enough of it.</p>
         <p>Here are some cases that shouldn't be: Francesca. Germanic. She's a woman of the world. </p>
         <p>Here are some countries that are useful as test cases for visual display. The United States. Hong Kong. Micronesia. Trinidad and Tobago.</p>
+        <p>
+            This makes sure greed-adjacent matches are distinguished. Niger shouldn't match Nigeria. The Republic of the Congo shouldn't match the Democratic Republic of the Congo. Sudan and South Sudan should be different. United States Virgin Islands and the United States are different.
+        </p>
+        <p> Under no circumstances should <span class='wv-ignore'>The United States</span> be matched, because it's in a span tag with an ignore class.</p>
         <p> Here is a list of troublesome countries for identification purposes:
             <ul>
                 <li>Jordan (also a common unisex name)</li>
