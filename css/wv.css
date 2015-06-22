@@ -14,7 +14,6 @@
 .wv-box {
     height: 300;
     width: 300;
-/*    background-color: salmon; */
     margin: 0px;
     padding: 0px;
     z-index: 30;
@@ -30,6 +29,7 @@
     font-weight: bold;
     text-align: right;
 /* For dev purposes */
+    border-radius: 4px;
     color: #333;
     background-color: lightsteelblue;
 
@@ -84,6 +84,7 @@
     overflow-x: hidden;
     overflow-y: auto;
     font-size: 9pt;
+    border-radius: 4px;
 }
 
 .wv-tab.top .wv-content {
