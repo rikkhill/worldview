@@ -23,9 +23,16 @@
         "js/jquery.min.js",
         "js/jquery.ba-replacetext.min.js",
         "js/mustache.min.js",
-        "js/inject.js"
+        "js/inject.js",
+        "js/jquery-ui.min.js"
       ],
-      "css" : ["css/wv.css"],
+      "css" : [
+          "css/wv.css",
+          "css/jq-wv.css",
+          "css/jquery-ui.min.css",
+          "css/jquery-ui.structure.min.css",
+          "css/jquery-ui.theme.min.css"
+      ],
       "run_at"  : "document_idle"
     }
   ],
@@ -36,6 +43,6 @@
   ],
 
   "web_accessible_resources" : [
-    "data/*", "assets/*"
+    "data/*", "assets/*", "images/*"
   ]
 }

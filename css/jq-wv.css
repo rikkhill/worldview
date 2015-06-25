@@ -1,0 +1,33 @@
+
+.ui-dialog-titlebar {
+    display: none;
+}
+
+.wv-outermost .ui-tabs {
+    border: none;
+    margin: 0px;
+}
+
+.wv-tabbox .ui-tabs-nav li {
+    font-size: 50%;
+    background: transparent;
+    border: none;
+}
+
+.wv-tabbox .ui-tabs-nav .ui-state-default a {
+    background: transparent;
+    border: none;
+}
+.wv-tabbox .ui-tabs-nav .ui-state-active a {
+    background: transparent;
+    border: none;
+}
+
+.wv-tabbox .ui-widget-header {
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #c0c0c0;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+}

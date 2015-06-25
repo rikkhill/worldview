@@ -1,0 +1,80 @@
+<div class='wv-outermost'>
+    <div class='wv-tabbox'>
+        <ul>
+            <li><a href='#tab1'><span>Geog.</span></a></li>
+            <li><a href='#tab2'><span>Econ.</span></a></li>
+            <li><a href='#tab3'><span>Pop.</span></a></li>
+            <li><a href='#tab4'><span>Dev.</span></a></li>
+        </ul>
+        <div id='tab1'>
+                <table>
+                    <tr>
+                    </tr>
+                    <tr>
+                        <td>
+                            Capital:
+                        </td>
+                        <td>
+                            {{capital}}
+                        </td>
+                    </tr>                   <tr>
+                        <td>
+                            Population:
+                        </td>
+                        <td>
+                            {{SP-POP-TOTL.value}} ({{SP-POP-TOTL.date}})
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            Languages:
+                        </td>
+                        <td>
+                            {{#languages}}
+                                {{.}}<br />
+                            {{/languages}}
+                        </td>
+                    </tr>
+                </table>
+        </div>
+        <div id='tab2'>
+                Currency is {{currency}}
+        </div>
+        <div id='tab3'>
+            Borders:
+                <ul>
+                {{#borders}}
+                    <li> {{.}}</li>
+                {{/borders}}
+                {{^borders}}
+                    <li>Island Nation</li>
+                {{/borders}}
+                </ul>
+        </div>
+        <div id="tab4">
+                <table>
+                    <tr>
+                        <td colspan='3'>
+                                Development Indicators
+                        </td>
+                    </tr>
+                    <tr>
+                        <td rowspan=''>
+                            Adult Literacy:
+                        </td>
+                        <td>{{SE-ADT-LITR-ZS.value}}% ({{SE-ADT-LITR-ZS.date}})
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>&nbsp;</td>
+                        <td colspan="0.5">
+                            <big>&#9794;</big> {{SE-ADT-LITR-MA-ZS.value}}%
+                        </td>
+                        <td colspan="0.5">
+                            <big>&#9792;</big> {{SE-ADT-LITR-FE-ZS.value}}%
+                        </td>
+                    </tr>
+                </table>
+        </div>
+    </div>
+</div>

@@ -13,7 +13,7 @@
 //TODO: modularise this to the point where unit-testing is useful
 
 function appendBox(target, data) {
-    var template_url = chrome.extension.getURL('assets/templates/wv-box.html');
+    var template_url = chrome.extension.getURL('assets/templates/jqui-box.html');
     $.get(template_url, function(template) {
 
         // Inject context-specific info into data object
@@ -23,12 +23,16 @@ function appendBox(target, data) {
 
         var output = $.parseHTML(Mustache.render(template, data));
 
+
         // Add tab behaviour
         $(output).find('.wv-tab-label').on('click', function(e) {
             $('.top').removeClass("top");
             $(this).parent().addClass("top");
         });
 
+        $(output).find('.wv-tabbox').tabs();
+
+        /* Transitioning to jquery-ui. Will look exceedingly ugly for a bit
         // Append to document so we can position it properly
         var box = $(output).css({"display" : "none"}).appendTo(document.body);
 
@@ -57,6 +61,9 @@ function appendBox(target, data) {
             "left"      : box_offset_left + "px",
             "display"   : "none"
         }).attr("data-iso", $(target).attr("data-iso")).fadeIn('fast');
+        */
+
+        $(output).dialog();
     });
 }
 
