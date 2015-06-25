@@ -1,3 +1,7 @@
+/*
+    A surprising number of CSS properties can be inherited by the
+    widget from the parent page, breaking everything horribly.
+*/
 .wv-widget {
     cursor: pointer;
     display: inline !important;
@@ -5,15 +9,18 @@
     margin: 0px !important;
     padding: 0px !important;
     border: 0 !important;
+    width: 11px !important;
+    height: 11px !important!;
+    float: none !important!;
 }
 
 .wv-markup {
     white-space: nowrap;
 }
 
-.wv-box {
-    height: 300;
-    width: 300;
+.wv-outermost {
+    height: 300px;
+    width: 300px;
     margin: 0px;
     padding: 0px;
     z-index: 30;
@@ -63,51 +70,24 @@
     left: 10px;
 }
 
-.wv-tabbox {
-    height: 236px;
-    position: relative;
-}
-
-.wv-tab {
-    display: inline-block;
+.wv-outermost .wv-tabbox {
+    background: none;
     background-color: lightgreen;
-}
-
-.wv-tab .wv-content {
-    z-index: -10;
-    width: 100%;
-    height: 236px;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    background-color: inherit;
+    height: 220px;
+    padding: 0px;
+    margin: 0px;
     overflow-x: hidden;
     overflow-y: auto;
+}
+
+.wv-outermost .wv-tab-content {
+    font-family: sans-serif;
     font-size: 9pt;
-    border-radius: 4px;
-}
-
-.wv-tab.top .wv-content {
-    z-index: inherit;
-}
-
-.wv-tab .wv-tab-label {
-    z-index: 31;
-    position: relative;
-    top: -15px;
-    background-color: inherit;
-    display: inline-block;
-    padding-left: 5px;
-    padding-right: 15px;
-    cursor: pointer;
-    border-top-right-radius: 3px;
-    font-size: 8pt;
-    font-weight: bold;
-    color: steelblue;
 }
 
 .wv-table {
-    width: 280px;;
+    width: 280px;
+    font-family: inherit;
     font-size: inherit;
     margin: 5px;
 /*    border: 1pt solid black; */

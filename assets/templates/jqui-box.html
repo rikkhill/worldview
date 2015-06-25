@@ -1,4 +1,14 @@
-<div class='wv-outermost outermost'>
+<div id='wv-box-{{iso2}}' class='wv-outermost'>
+    <div class='wv-header'>
+        <img class='wv-flag' src="{{context.url}}/{{iso2}}.png" alt="Flag of {{name}}" />
+        <div class='wv-title'>
+            {{ name }}
+            <div class='wv-subtitle'>
+                {{ official }}
+            </div>
+        </div>
+    </div>
+
     <div class='wv-tabbox'>
         <ul>
             <li><a href='#tab1'><span>Geog.</span></a></li>
@@ -6,8 +16,8 @@
             <li><a href='#tab3'><span>Pop.</span></a></li>
             <li><a href='#tab4'><span>Dev.</span></a></li>
         </ul>
-        <div id='tab1'>
-                <table>
+        <div id='tab1' class='wv-tab-content'>
+                <table class='wv-table'>
                     <tr>
                     </tr>
                     <tr>
@@ -37,10 +47,10 @@
                     </tr>
                 </table>
         </div>
-        <div id='tab2'>
+        <div id='tab2' class='wv-tab-content'>
                 Currency is {{currency}}
         </div>
-        <div id='tab3'>
+        <div id='tab3' class='wv-tab-content'>
             Borders:
                 <ul>
                 {{#borders}}
@@ -51,7 +61,7 @@
                 {{/borders}}
                 </ul>
         </div>
-        <div id="tab4">
+        <div id='tab4' class='wv-tab-content'>
                 <table>
                     <tr>
                         <td colspan='3'>

@@ -30,12 +30,12 @@ function appendBox(target, data) {
             $(this).parent().addClass("top");
         });
 
-        $(output).find('.wv-tabbox').tabs();
 
-        /* Transitioning to jquery-ui. Will look exceedingly ugly for a bit
+        // Transitioning to jquery-ui. Will look exceedingly ugly for a bit
         // Append to document so we can position it properly
         var box = $(output).css({"display" : "none"}).appendTo(document.body);
 
+        $(output).find('.wv-tabbox').tabs();
         // Intelligently place the box so it's wholly visible in the viewport
         // (Surprisingly tricky. Maybe there's a plugin for this?)
         var offset = $(target).offset();
@@ -61,9 +61,8 @@ function appendBox(target, data) {
             "left"      : box_offset_left + "px",
             "display"   : "none"
         }).attr("data-iso", $(target).attr("data-iso")).fadeIn('fast');
-        */
-
-        $(output).dialog();
+        // Gets error when made draggable for some reason
+        //box.draggable({ handle: '.wv-header' });
     });
 }
 
@@ -141,7 +140,7 @@ function setWidgets(terms) {
 // Clear boxes on click-out
 $(document).on('mouseup', function (e)
 {
-    var container = $(".outermost");
+    var container = $(".wv-outermost");
 
     if (!container.is(e.target) && container.has(e.target).length === 0)
     {
