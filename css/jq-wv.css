@@ -12,15 +12,18 @@
     font-size: 50%;
     background: transparent;
     border: none;
+    outline-color: transparent;
 }
 
 .wv-tabbox .ui-tabs-nav .ui-state-default a {
     background: transparent;
     border: none;
+    outline-color: transparent;
 }
 .wv-tabbox .ui-tabs-nav .ui-state-active a {
     background: transparent;
     border: none;
+    outline-color: transparent;
 }
 
 .wv-tabbox .ui-widget-header {
